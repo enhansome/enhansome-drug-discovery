@@ -179,7 +179,7 @@
             "last_commit": "2025-05-02T13:59:19Z",
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1564
+            "stars": 1566
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-06-29T14:46:52Z",
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 961
+            "stars": 962
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-08T18:05:47Z",
             "owner": "forlilab",
             "repo": "Meeko",
-            "stars": 384
+            "stars": 385
           }
         },
         {
@@ -336,10 +336,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-31T12:32:05Z",
+            "last_commit": "2026-08-13T15:39:20Z",
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 584
+            "stars": 585
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-04T22:51:10Z",
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2434
+            "stars": 2435
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-05-29T08:20:25Z",
             "owner": "jwohlwend",
             "repo": "boltz",
-            "stars": 4159
+            "stars": 4162
           }
         },
         {
@@ -554,7 +554,7 @@
             "last_commit": "2026-07-28T23:19:47Z",
             "owner": "Biohub",
             "repo": "esm",
-            "stars": 2899
+            "stars": 2903
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-03-24T13:33:39Z",
             "owner": "chembl",
             "repo": "chembl_webresource_client",
-            "stars": 448
+            "stars": 449
           }
         },
         {
@@ -815,7 +815,7 @@
             "last_commit": "2026-05-02T15:40:24Z",
             "owner": "PatWalters",
             "repo": "practical_cheminformatics_tutorials",
-            "stars": 1292
+            "stars": 1293
           }
         },
         {
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:45:58.716Z",
+    "last_updated": "2026-08-14T09:42:47.261Z",
     "original_repository": "yboulaamane/awesome-drug-discovery",
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
     "enhanced_repository": "enhansome/enhansome-drug-discovery",
