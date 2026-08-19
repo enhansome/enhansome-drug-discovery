@@ -599,7 +599,7 @@
                 "last_commit": "2026-06-30T07:48:29Z",
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 1979
+                "stars": 1980
               }
             },
             {
@@ -722,7 +722,7 @@
             "last_commit": "2026-08-17T01:40:03Z",
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 334
+            "stars": 344
           }
         },
         {
@@ -862,7 +862,7 @@
                 "archived": false,
                 "id": 472123423,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T03:10:19Z",
+                "last_commit": "2026-08-19T12:14:39Z",
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
                 "stars": 1295
@@ -923,8 +923,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:18:59.196Z",
+    "last_updated": "2026-08-19T12:24:44.552Z",
     "original_repository": "yboulaamane/awesome-drug-discovery",
+    "original_repository_id": 743983436,
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
     "enhanced_repository": "enhansome/enhansome-drug-discovery",
     "enhanced_repository_description": null,

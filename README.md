@@ -209,7 +209,7 @@ Computational methods for identifying and developing new drug candidates.
 * [Meeko](https://github.com/forlilab/Meeko) ⭐ 385 | 🐛 50 | 🌐 Python | 📅 2026-08-08 - Prepares ligands/receptors for AutoDock by assigning partial charges and atom types.
 * [Smina](https://github.com/mwojcikowski/smina) ⭐ 148 | 🐛 0 | 🌐 C++ | 📅 2018-11-18 - Vina fork with extra features.
 * [PandaDock](https://github.com/pritampanda15/PandaDock) ⭐ 99 | 🐛 0 | 🌐 Python | 📅 2026-08-04 - Python docking tool.
-* [EasyDock](https://github.com/ci-lab-cz/easydock) ⭐ 83 | 🐛 13 | 🌐 Python | 📅 2026-06-17 - Vina/Smina pipeline.
+* [EasyDock](https://github.com/ci-lab-cz/easydock) ⭐ 83 | 🐛 14 | 🌐 Python | 📅 2026-06-17 - Vina/Smina pipeline.
 * [MolScrub](https://github.com/forlilab/molscrub) ⭐ 58 | 🐛 7 | 🌐 Python | 📅 2026-08-17 - Enumerates tautomers, pH states, and conformers for docking and structure-based modeling.
 * [MzDOCK](https://github.com/Muzatheking12/MzDOCK) ⭐ 27 | 🐛 11 | 🌐 Python | 📅 2025-09-02 - GUI docking pipeline.
 * [Chopdock](https://github.com/JanoschMenke/chopdock) ⭐ 18 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-01 - Molecular docking and cheminformatics tool for structural interaction analysis and fragment-based design.
@@ -315,7 +315,7 @@ Computational methods for identifying and developing new drug candidates.
 
 * [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,167 | 🐛 154 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
 * [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,911 | 🐛 72 | 🌐 Jupyter Notebook | 📅 2026-08-17 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
-* [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,979 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
+* [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,980 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
 * [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,149 | 🐛 112 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
 * [MolBERT](https://github.com/BenevolentAI/MolBERT) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2021-06-06 - Transformer-based molecular representation learning.
 * [Zatom](https://github.com/Zatom-AI/zatom) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-07-25 - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
@@ -330,7 +330,7 @@ Computational methods for identifying and developing new drug candidates.
 ## Utility and Workflow Tools
 
 * [chembl\_webresource\_client](https://github.com/chembl/chembl_webresource_client) ⭐ 449 | 🐛 29 | 🌐 Python | 📅 2026-03-24 - Official Python client library for programmatic access to the ChEMBL database API.
-* [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) ⭐ 334 | 🐛 4 | 🌐 Python | 📅 2026-08-17 - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
+* [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) ⭐ 344 | 🐛 4 | 🌐 Python | 📅 2026-08-17 - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
 * [spyrmsd](https://github.com/RMeli/spyrmsd) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2026-08-03 - Python tool for symmetry-corrected RMSD calculations using graph isomorphism.
 * [biopipelines](https://github.com/locbp-uzh/biopipelines) ⭐ 104 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-28 - Modular Python framework for automated computational protein and ligand engineering workflows on SLURM clusters.
 * [NAMI](https://github.com/mqcomplab/NAMI) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-08-11 - Computational tool for clustering and evaluating differences across molecular datasets.
