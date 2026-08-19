@@ -1,172 +1,182 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Databases and Chemical Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RFdiffusion",
+              "description": "Open-source method for de novo protein design using structure-guided diffusion models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620471484,
+                "language": "Python",
+                "last_commit": "2026-07-15T18:08:01Z",
+                "owner": "RosettaCommons",
+                "repo": "RFdiffusion",
+                "stars": 3020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PDBFixer",
+              "description": "Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12472664,
+                "language": "Python",
+                "last_commit": "2026-03-10T23:26:39Z",
+                "owner": "openmm",
+                "repo": "pdbfixer",
+                "stars": 670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Melodia",
+              "description": "Python library for analyzing and comparing protein structure shapes via differential geometry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452679610,
+                "language": "Python",
+                "last_commit": "2026-04-29T13:41:02Z",
+                "owner": "rwmontalvao",
+                "repo": "Melodia_py",
+                "stars": 86
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Protein Engineering and Modeling"
+        }
+      ],
       "title": "Target and Protein Data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "RFdiffusion",
-          "description": "Open-source method for de novo protein design using structure-guided diffusion models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-15T18:08:01Z",
-            "owner": "RosettaCommons",
-            "repo": "RFdiffusion",
-            "stars": 3017
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "QSPRpred",
+              "description": "Open-source Python toolkit for building, reproducing, and deploying QSAR/QSPR models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588500019,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-26T14:40:28Z",
+                "owner": "CDDLeiden",
+                "repo": "QSPRpred",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyADA",
+              "description": "Assesses the applicability domain of molecular fingerprints via similarity-based thresholds for QSAR validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340351316,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-02-08T17:14:12Z",
+                "owner": "jeffrichardchemistry",
+                "repo": "pyADA",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QSAR and Descriptor Tools"
         },
         {
-          "node_type": "item",
-          "title": "PDBFixer",
-          "description": "Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-10T23:26:39Z",
-            "owner": "openmm",
-            "repo": "pdbfixer",
-            "stars": 670
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mordred",
+              "description": "Python library with 1800+ molecular descriptors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48859647,
+                "language": "Python",
+                "last_commit": "2024-02-07T21:10:44Z",
+                "owner": "mordred-descriptor",
+                "repo": "mordred",
+                "stars": 478
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChemDescriptor",
+              "description": "Open-source tool for generating chemical descriptors and fingerprints, supporting cheminformatics workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185446573,
+                "language": "Python",
+                "last_commit": "2021-11-19T22:23:39Z",
+                "owner": "darkreactions",
+                "repo": "chemdescriptor",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Descriptor and Featurization Tools"
         },
         {
-          "node_type": "item",
-          "title": "Melodia",
-          "description": "Python library for analyzing and comparing protein structure shapes via differential geometry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-29T13:41:02Z",
-            "owner": "rwmontalvao",
-            "repo": "Melodia_py",
-            "stars": 86
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FragmentFinder",
+              "description": "Computational tool for identifying and matching structural fragments in drug discovery workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936921213,
+                "language": "Python",
+                "last_commit": "2026-03-24T07:47:58Z",
+                "owner": "1JELC1",
+                "repo": "FragmentFinder",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FragBuilder",
+              "description": "Python API for building peptide-like and small molecule fragments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20396815,
+                "language": "Python",
+                "last_commit": "2014-10-31T00:15:09Z",
+                "owner": "andersx",
+                "repo": "fragbuilder",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fragment-Based Drug Design"
         }
       ],
-      "title": "Protein Engineering and Modeling"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Ligand Design and Optimization"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "QSPRpred",
-          "description": "Open-source Python toolkit for building, reproducing, and deploying QSAR/QSPR models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-06-26T14:40:28Z",
-            "owner": "CDDLeiden",
-            "repo": "QSPRpred",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyADA",
-          "description": "Assesses the applicability domain of molecular fingerprints via similarity-based thresholds for QSAR validation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-02-08T17:14:12Z",
-            "owner": "jeffrichardchemistry",
-            "repo": "pyADA",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "QSAR and Descriptor Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mordred",
-          "description": "Python library with 1800+ molecular descriptors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-07T21:10:44Z",
-            "owner": "mordred-descriptor",
-            "repo": "mordred",
-            "stars": 478
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChemDescriptor",
-          "description": "Open-source tool for generating chemical descriptors and fingerprints, supporting cheminformatics workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-19T22:23:39Z",
-            "owner": "darkreactions",
-            "repo": "chemdescriptor",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Descriptor and Featurization Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FragmentFinder",
-          "description": "Computational tool for identifying and matching structural fragments in drug discovery workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-24T07:47:58Z",
-            "owner": "1JELC1",
-            "repo": "FragmentFinder",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FragBuilder",
-          "description": "Python API for building peptide-like and small molecule fragments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2014-10-31T00:15:09Z",
-            "owner": "andersx",
-            "repo": "fragbuilder",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Fragment-Based Drug Design"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -175,6 +185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 545595027,
             "language": "Python",
             "last_commit": "2025-05-02T13:59:19Z",
             "owner": "gcorso",
@@ -189,6 +200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45548146,
             "language": "C++",
             "last_commit": "2026-06-29T14:46:52Z",
             "owner": "gnina",
@@ -203,11 +215,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191935321,
             "language": "C++",
             "last_commit": "2026-08-11T19:00:24Z",
             "owner": "ccsb-scripps",
             "repo": "AutoDock-GPU",
-            "stars": 606
+            "stars": 607
           }
         },
         {
@@ -217,6 +230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310835794,
             "language": "Python",
             "last_commit": "2026-08-08T18:05:47Z",
             "owner": "forlilab",
@@ -231,6 +245,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13803858,
             "language": "C++",
             "last_commit": "2018-11-18T15:24:36Z",
             "owner": "mwojcikowski",
@@ -245,6 +260,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 955488326,
             "language": "Python",
             "last_commit": "2026-08-04T16:59:00Z",
             "owner": "pritampanda15",
@@ -259,6 +275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 464400268,
             "language": "Python",
             "last_commit": "2026-06-17T08:51:16Z",
             "owner": "ci-lab-cz",
@@ -273,6 +290,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407040831,
             "language": "Python",
             "last_commit": "2026-08-17T23:08:08Z",
             "owner": "forlilab",
@@ -287,6 +305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 758918044,
             "language": "Python",
             "last_commit": "2025-09-02T10:33:27Z",
             "owner": "Muzatheking12",
@@ -301,6 +320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1226677906,
             "language": "Jupyter Notebook",
             "last_commit": "2026-05-01T21:55:19Z",
             "owner": "JanoschMenke",
@@ -315,6 +335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238086075,
             "language": null,
             "last_commit": "2020-03-28T22:03:09Z",
             "owner": "S3cr3t-SDN",
@@ -326,7 +347,7 @@
       "title": "Virtual Screening and Docking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -335,11 +356,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162804881,
             "language": "Python",
             "last_commit": "2026-08-13T15:39:20Z",
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 586
+            "stars": 587
           }
         },
         {
@@ -349,6 +371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171507385,
             "language": "Python",
             "last_commit": "2026-05-18T15:29:42Z",
             "owner": "connyyu",
@@ -363,6 +386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1149246283,
             "language": "Python",
             "last_commit": "2026-02-19T11:46:04Z",
             "owner": "LigandPro",
@@ -374,284 +398,302 @@
       "title": "Interaction Analysis and Visualization"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cmd-viewer",
+              "description": "Tool for visualizing and analyzing MD simulation trajectories and structural data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1218923935,
+                "language": "Python",
+                "last_commit": "2026-07-08T19:29:23Z",
+                "owner": "Kopec-Lab",
+                "repo": "cmd-viewer",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pharmacon",
+              "description": "Open-source toolkit for molecular dynamics simulation analysis in medicinal chemistry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1234487939,
+                "language": "Python",
+                "last_commit": "2026-07-14T16:08:49Z",
+                "owner": "k-georgiou",
+                "repo": "pharmacon",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analysis Tools"
+        }
+      ],
       "title": "Molecular Dynamics and Simulation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "cmd-viewer",
-          "description": "Tool for visualizing and analyzing MD simulation trajectories and structural data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-08T19:29:23Z",
-            "owner": "Kopec-Lab",
-            "repo": "cmd-viewer",
-            "stars": 31
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeepChem",
+              "description": "Open-source deep learning framework for chemistry and biology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43098215,
+                "language": "Python",
+                "last_commit": "2026-08-10T18:48:19Z",
+                "owner": "deepchem",
+                "repo": "deepchem",
+                "stars": 6944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chemprop",
+              "description": "Directed message passing neural networks for molecular property prediction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167628014,
+                "language": "Python",
+                "last_commit": "2026-08-17T19:57:45Z",
+                "owner": "chemprop",
+                "repo": "chemprop",
+                "stars": 2435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DGL-LifeSci",
+              "description": "Graph deep learning toolkit for life sciences using the Deep Graph Library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258124207,
+                "language": "Python",
+                "last_commit": "2023-11-01T19:32:07Z",
+                "owner": "awslabs",
+                "repo": "dgl-lifesci",
+                "stars": 809
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scikit-mol",
+              "description": "Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 532551447,
+                "language": "Python",
+                "last_commit": "2025-11-02T15:29:43Z",
+                "owner": "EBjerrum",
+                "repo": "scikit-mol",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChemML",
+              "description": "Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113404097,
+                "language": "Python",
+                "last_commit": "2026-08-14T23:14:44Z",
+                "owner": "hachmannlab",
+                "repo": "chemml",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LigandForge",
+              "description": "ML-based structure-guided de novo ligand generation and optimization for hit identification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062976423,
+                "language": "Python",
+                "last_commit": "2026-05-08T15:17:02Z",
+                "owner": "HTS-Oracle",
+                "repo": "LigandForge",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iChem",
+              "description": "Python cheminformatics package for molecular comparisons, fingerprints, and chemical data analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919720515,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-20T19:59:00Z",
+                "owner": "mqcomplab",
+                "repo": "iChem",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chemistry-focused ML Frameworks"
         },
         {
-          "node_type": "item",
-          "title": "Pharmacon",
-          "description": "Open-source toolkit for molecular dynamics simulation analysis in medicinal chemistry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-14T16:08:49Z",
-            "owner": "k-georgiou",
-            "repo": "pharmacon",
-            "stars": 22
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Boltz-2",
+              "description": "A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 889915078,
+                "language": "Python",
+                "last_commit": "2026-05-29T08:20:25Z",
+                "owner": "jwohlwend",
+                "repo": "boltz",
+                "stars": 4167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESM3",
+              "description": "Generative biology foundation model for designing novel proteins across sequence, structure, and function.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 819771555,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T17:40:57Z",
+                "owner": "Biohub",
+                "repo": "esm",
+                "stars": 2911
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chai-1",
+              "description": "Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 854372212,
+                "language": "Python",
+                "last_commit": "2026-06-30T07:48:29Z",
+                "owner": "chaidiscovery",
+                "repo": "chai-lab",
+                "stars": 1979
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uni-Mol",
+              "description": "3D molecular representation learning framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495067397,
+                "language": "Python",
+                "last_commit": "2025-05-29T07:41:36Z",
+                "owner": "deepmodeling",
+                "repo": "Uni-Mol",
+                "stars": 1149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MolBERT",
+              "description": "Transformer-based molecular representation learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303364123,
+                "language": "Python",
+                "last_commit": "2021-06-06T10:28:35Z",
+                "owner": "BenevolentAI",
+                "repo": "MolBERT",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zatom",
+              "description": "AI-driven generative chemistry platform for discovering and analyzing molecular structures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1038289785,
+                "language": "Python",
+                "last_commit": "2026-07-25T19:15:20Z",
+                "owner": "Zatom-AI",
+                "repo": "zatom",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pretrained Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MolVS",
+              "description": "Molecule validation and standardization library based on RDKit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21352292,
+                "language": "Python",
+                "last_commit": "2020-04-16T18:15:23Z",
+                "owner": "mcs07",
+                "repo": "MolVS",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cleanmol",
+              "description": "Python library for cleaning, standardizing, and preparing molecular structures for cheminformatics workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1207881093,
+                "language": "Python",
+                "last_commit": "2026-04-15T14:11:50Z",
+                "owner": "nurtilekgalimov",
+                "repo": "cleanmol",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Molecule Standardization"
         }
       ],
-      "title": "Analysis Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Specialized Modalities"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Machine Learning and AI"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeepChem",
-          "description": "Open-source deep learning framework for chemistry and biology.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T18:48:19Z",
-            "owner": "deepchem",
-            "repo": "deepchem",
-            "stars": 6945
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chemprop",
-          "description": "Directed message passing neural networks for molecular property prediction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T19:57:45Z",
-            "owner": "chemprop",
-            "repo": "chemprop",
-            "stars": 2435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DGL-LifeSci",
-          "description": "Graph deep learning toolkit for life sciences using the Deep Graph Library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-01T19:32:07Z",
-            "owner": "awslabs",
-            "repo": "dgl-lifesci",
-            "stars": 809
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scikit-mol",
-          "description": "Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-02T15:29:43Z",
-            "owner": "EBjerrum",
-            "repo": "scikit-mol",
-            "stars": 204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChemML",
-          "description": "Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T23:14:44Z",
-            "owner": "hachmannlab",
-            "repo": "chemml",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LigandForge",
-          "description": "ML-based structure-guided de novo ligand generation and optimization for hit identification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-08T15:17:02Z",
-            "owner": "HTS-Oracle",
-            "repo": "LigandForge",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iChem",
-          "description": "Python cheminformatics package for molecular comparisons, fingerprints, and chemical data analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-06-20T19:59:00Z",
-            "owner": "mqcomplab",
-            "repo": "iChem",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Chemistry-focused ML Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Boltz-2",
-          "description": "A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-29T08:20:25Z",
-            "owner": "jwohlwend",
-            "repo": "boltz",
-            "stars": 4164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESM3",
-          "description": "Generative biology foundation model for designing novel proteins across sequence, structure, and function.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T17:40:57Z",
-            "owner": "Biohub",
-            "repo": "esm",
-            "stars": 2909
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chai-1",
-          "description": "Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-30T07:48:29Z",
-            "owner": "chaidiscovery",
-            "repo": "chai-lab",
-            "stars": 1979
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uni-Mol",
-          "description": "3D molecular representation learning framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-29T07:41:36Z",
-            "owner": "deepmodeling",
-            "repo": "Uni-Mol",
-            "stars": 1147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MolBERT",
-          "description": "Transformer-based molecular representation learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-06-06T10:28:35Z",
-            "owner": "BenevolentAI",
-            "repo": "MolBERT",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zatom",
-          "description": "AI-driven generative chemistry platform for discovering and analyzing molecular structures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-25T19:15:20Z",
-            "owner": "Zatom-AI",
-            "repo": "zatom",
-            "stars": 51
-          }
-        }
-      ],
-      "title": "Pretrained Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MolVS",
-          "description": "Molecule validation and standardization library based on RDKit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-04-16T18:15:23Z",
-            "owner": "mcs07",
-            "repo": "MolVS",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cleanmol",
-          "description": "Python library for cleaning, standardizing, and preparing molecular structures for cheminformatics workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-15T14:11:50Z",
-            "owner": "nurtilekgalimov",
-            "repo": "cleanmol",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Molecule Standardization"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -660,6 +702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18640585,
             "language": "Python",
             "last_commit": "2026-03-24T13:33:39Z",
             "owner": "chembl",
@@ -674,11 +717,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203909758,
             "language": "Python",
             "last_commit": "2026-08-17T01:40:03Z",
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 331
+            "stars": 334
           }
         },
         {
@@ -688,6 +732,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214157073,
             "language": "Python",
             "last_commit": "2026-08-03T07:59:03Z",
             "owner": "RMeli",
@@ -702,6 +747,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1155324848,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-28T07:03:08Z",
             "owner": "locbp-uzh",
@@ -716,6 +762,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1062847686,
             "language": "Python",
             "last_commit": "2026-08-11T16:31:15Z",
             "owner": "mqcomplab",
@@ -730,6 +777,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1082513505,
             "language": "Python",
             "last_commit": "2026-08-11T10:23:13Z",
             "owner": "slimeslab",
@@ -744,6 +792,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017318033,
             "language": "Python",
             "last_commit": "2026-06-22T10:10:24Z",
             "owner": "LigandPro",
@@ -758,6 +807,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159727816,
             "language": "JavaScript",
             "last_commit": "2026-03-09T10:24:06Z",
             "owner": "yapici",
@@ -772,6 +822,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182866291,
             "language": "JavaScript",
             "last_commit": "2026-03-19T19:29:28Z",
             "owner": "scottmreed",
@@ -783,89 +834,96 @@
       "title": "Utility and Workflow Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Learning Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "DeepChem Tutorials",
-          "description": "Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T18:48:19Z",
-            "owner": "deepchem",
-            "repo": "deepchem",
-            "stars": 6945
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Practical Cheminformatics Tutorials",
-          "description": "Hands-on Jupyter tutorials for RDKit, SAR, clustering, generative models, and ML pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T02:02:06Z",
-            "owner": "PatWalters",
-            "repo": "practical_cheminformatics_tutorials",
-            "stars": 1294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "intro_pharma_ai",
-          "description": "Notebook-based introduction to AI applications in pharma.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-09-09T15:20:58Z",
-            "owner": "kochgroup",
-            "repo": "intro_pharma_ai",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "how-to-train-your-chemeleon",
-          "description": "Tutorial and framework for training chemical machine learning models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-06T18:57:20Z",
-            "owner": "JacksonBurns",
-            "repo": "how-to-train-your-chemeleon",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rdkit-tips-and-tricks",
-          "description": "Practical snippets and examples for the RDKit cheminformatics toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-04-05T12:44:14Z",
-            "owner": "mohamedzaghloul-lab638",
-            "repo": "rdkit-tips-and-tricks-",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeepChem Tutorials",
+              "description": "Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43098215,
+                "language": "Python",
+                "last_commit": "2026-08-10T18:48:19Z",
+                "owner": "deepchem",
+                "repo": "deepchem",
+                "stars": 6944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Practical Cheminformatics Tutorials",
+              "description": "Hands-on Jupyter tutorials for RDKit, SAR, clustering, generative models, and ML pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472123423,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-19T03:10:19Z",
+                "owner": "PatWalters",
+                "repo": "practical_cheminformatics_tutorials",
+                "stars": 1295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "intro_pharma_ai",
+              "description": "Notebook-based introduction to AI applications in pharma.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399444522,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-09-09T15:20:58Z",
+                "owner": "kochgroup",
+                "repo": "intro_pharma_ai",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "how-to-train-your-chemeleon",
+              "description": "Tutorial and framework for training chemical machine learning models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1211612998,
+                "language": "Python",
+                "last_commit": "2026-07-06T18:57:20Z",
+                "owner": "JacksonBurns",
+                "repo": "how-to-train-your-chemeleon",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rdkit-tips-and-tricks",
+              "description": "Practical snippets and examples for the RDKit cheminformatics toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1197780247,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-05T12:44:14Z",
+                "owner": "mohamedzaghloul-lab638",
+                "repo": "rdkit-tips-and-tricks-",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Instructional Notebooks"
         }
       ],
-      "title": "Instructional Notebooks"
+      "title": "Learning Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:08:31.299Z",
+    "last_updated": "2026-08-19T09:18:59.196Z",
     "original_repository": "yboulaamane/awesome-drug-discovery",
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
     "enhanced_repository": "enhansome/enhansome-drug-discovery",
