@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-15T18:08:01Z",
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3024
+                "stars": 3025
               }
             },
             {
@@ -262,7 +262,7 @@
             "archived": false,
             "id": 955488326,
             "language": "Python",
-            "last_commit": "2026-08-22T05:07:55Z",
+            "last_commit": "2026-08-22T14:41:19Z",
             "owner": "pritampanda15",
             "repo": "PandaDock",
             "stars": 100
@@ -361,7 +361,7 @@
             "last_commit": "2026-08-13T15:39:20Z",
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -457,7 +457,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6951
+                "stars": 6952
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2026-08-21T20:08:40Z",
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2435
+                "stars": 2436
               }
             },
             {
@@ -569,7 +569,7 @@
                 "last_commit": "2026-05-29T08:20:25Z",
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4172
+                "stars": 4173
               }
             },
             {
@@ -584,7 +584,7 @@
                 "last_commit": "2026-08-22T01:24:15Z",
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2915
+                "stars": 2916
               }
             },
             {
@@ -599,7 +599,7 @@
                 "last_commit": "2026-06-30T07:48:29Z",
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 1983
+                "stars": 1984
               }
             },
             {
@@ -614,7 +614,7 @@
                 "last_commit": "2025-05-29T07:41:36Z",
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1151
+                "stars": 1153
               }
             },
             {
@@ -722,7 +722,7 @@
             "last_commit": "2026-08-17T01:40:03Z",
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 347
+            "stars": 348
           }
         },
         {
@@ -850,7 +850,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6951
+                "stars": 6952
               }
             },
             {
@@ -862,7 +862,7 @@
                 "archived": false,
                 "id": 472123423,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T19:56:35Z",
+                "last_commit": "2026-08-22T16:47:39Z",
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
                 "stars": 1298
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:02:24.544Z",
+    "last_updated": "2026-08-23T09:02:41.850Z",
     "original_repository": "yboulaamane/awesome-drug-discovery",
     "original_repository_id": 743983436,
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
