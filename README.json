@@ -75,7 +75,7 @@
                 "last_commit": "2026-06-26T14:40:28Z",
                 "owner": "CDDLeiden",
                 "repo": "QSPRpred",
-                "stars": 93
+                "stars": 94
               }
             },
             {
@@ -190,7 +190,7 @@
             "last_commit": "2025-05-02T13:59:19Z",
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1568
+            "stars": 1569
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-06-29T14:46:52Z",
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 963
+            "stars": 964
           }
         },
         {
@@ -262,7 +262,7 @@
             "archived": false,
             "id": 955488326,
             "language": "Python",
-            "last_commit": "2026-08-22T14:41:19Z",
+            "last_commit": "2026-08-24T05:10:01Z",
             "owner": "pritampanda15",
             "repo": "PandaDock",
             "stars": 100
@@ -310,7 +310,7 @@
             "last_commit": "2025-09-02T10:33:27Z",
             "owner": "Muzatheking12",
             "repo": "MzDOCK",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -457,7 +457,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6952
+                "stars": 6955
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2026-08-21T20:08:40Z",
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2436
+                "stars": 2437
               }
             },
             {
@@ -584,7 +584,7 @@
                 "last_commit": "2026-08-22T01:24:15Z",
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2916
+                "stars": 2920
               }
             },
             {
@@ -599,7 +599,7 @@
                 "last_commit": "2026-06-30T07:48:29Z",
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 1984
+                "stars": 1985
               }
             },
             {
@@ -614,7 +614,7 @@
                 "last_commit": "2025-05-29T07:41:36Z",
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1153
+                "stars": 1154
               }
             },
             {
@@ -850,7 +850,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6952
+                "stars": 6955
               }
             },
             {
@@ -923,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:02:41.850Z",
+    "last_updated": "2026-08-24T09:29:00.810Z",
     "original_repository": "yboulaamane/awesome-drug-discovery",
     "original_repository_id": 743983436,
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
