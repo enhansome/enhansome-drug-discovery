@@ -112,12 +112,12 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Binding Site and Pocket Detection
 
+* [Pocket Binding Site Prediction](https://github.com/MariaPau03/Pocket_Binding_Site_Prediction) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-04-05 - ML-based tool for predicting binding pockets and active sites on protein structures.
 * [PrankWeb](https://prankweb.cz/) - Pocket prediction and analysis.
 * [CASTp](http://sts.bioe.uic.edu/castp/index.html?2r7g) - Pocket geometry and volume analysis.
 * [CavityPlus](http://www.pkumdl.cn:8000/cavityplus/index.php#/) - Pocket detection and druggability.
 * [CaverWeb](https://loschmidt.chemi.muni.cz/caverweb/) - Tunnel and channel detection.
 * [PASSer](https://passer.smu.edu/) - Allosteric site prediction.
-* [Pocket Binding Site Prediction](https://github.com/MariaPau03/Pocket_Binding_Site_Prediction) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-04-05 - ML-based tool for predicting binding pockets and active sites on protein structures.
 * [Protplex](https://protplex.com/) - Semantic search engine for the PDB enabling multidimensional queries on structures and binding pockets.
 
 ### Protein Engineering and Modeling
@@ -315,7 +315,7 @@ Computational methods for identifying and developing new drug candidates.
 
 * [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,173 | 🐛 154 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
 * [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,920 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2026-08-22 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
-* [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,985 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
+* [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,986 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
 * [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,154 | 🐛 112 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
 * [MolBERT](https://github.com/BenevolentAI/MolBERT) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2021-06-06 - Transformer-based molecular representation learning.
 * [Zatom](https://github.com/Zatom-AI/zatom) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-07-25 - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
@@ -364,6 +364,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Free Courses
 
+* [AI for Chemistry Course](https://github.com/schwallergroup/ai4chem_course) ⭐ 289 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-03 - Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.
 * [TMP Chem Lectures](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) - Recorded lectures from a leading cheminformatics summer school.
 * [Strasbourg Summer School in Chemoinformatics](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - Summer school lectures.
 * [BIGCHEM](https://bigchem.eu/node/63) - Online course on big data applications in chemistry.
@@ -377,12 +378,12 @@ Computational methods for identifying and developing new drug candidates.
 * [Resources for Learning Bioinformatics](https://learnbioinformatics.org/) - Curated collection of tutorials and materials for bioinformatics and computational biology.
 * [Synthesis Workshop](https://synthesis-workshop.com/) - Open-access video podcast on advanced organic synthesis and medicinal chemistry.
 * [AI for Chemistry (ai4chem Book)](https://zzhenglab.github.io/ai4chem/intro.html) - An open-access book and interactive guide to machine learning and AI in chemistry.
-* [AI for Chemistry Course](https://github.com/schwallergroup/ai4chem_course) ⭐ 289 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-03 - Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.
 * [CCAS Training Materials](https://ccas.nd.edu/research/training-materials/) - Training resources for computer-assisted synthesis tools, reaction modeling, and machine learning.
 * [ML in Chemistry (CHEM 542)](https://sites.rutgers.edu/sun-lab/teach-chem542/) - Rutgers University course materials covering machine learning applications in chemical sciences.
 
 ### Blogs
 
+* [Awesome Learning Digital Chemistry](https://github.com/mlederbauer/awesome-learning-digital-chemistry) ⭐ 50 | 🐛 5 | 📅 2026-01-25 - Curated compilation of resources for learning digital chemistry, including courses, tutorials, and books.
 * [Practical Fragments](http://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
 * [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Tools and tips for cheminformatics workflows.
 * [Neovarsity](https://neovarsity.org/blogs?categories=CHEMINFORMATICS) - Deep-tech blog on cheminformatics and drug discovery applications.
@@ -398,7 +399,6 @@ Computational methods for identifying and developing new drug candidates.
 * [RDKit blog](https://greglandrum.github.io/rdkit-blog/) - A rich collection of tutorials, technical tips, and experimental insights from Greg Landrum.
 * [DeepMedChem](https://www.deepmedchem.com/) - AI-powered insights, tool reviews, and workflows for modern drug discovery.
 * [The Data Chemist's Handbook](https://data-chemist-handbook.github.io/) - A curated handbook with guidelines, code snippets, and tools for data-driven chemistry.
-* [Awesome Learning Digital Chemistry](https://github.com/mlederbauer/awesome-learning-digital-chemistry) ⭐ 50 | 🐛 5 | 📅 2026-01-25 - Curated compilation of resources for learning digital chemistry, including courses, tutorials, and books.
 * [CCAS Data sets, Tools, and Workflows](https://ccas.nd.edu/research/data-sets-tools-and-workflows/) - A repository of datasets and computational workflows for computer-assisted organic synthesis.
 
 ### Instructional Notebooks

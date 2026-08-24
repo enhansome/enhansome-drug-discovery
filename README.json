@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Pocket Binding Site Prediction",
+              "description": "ML-based tool for predicting binding pockets and active sites on protein structures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1200563881,
+                "language": "HTML",
+                "last_commit": "2026-04-05T06:36:00Z",
+                "owner": "MariaPau03",
+                "repo": "Pocket_Binding_Site_Prediction",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Binding Site and Pocket Detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "RFdiffusion",
               "description": "Open-source method for de novo protein design using structure-guided diffusion models.",
               "children": [],
@@ -599,7 +621,7 @@
                 "last_commit": "2026-06-30T07:48:29Z",
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 1985
+                "stars": 1986
               }
             },
             {
@@ -840,6 +862,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AI for Chemistry Course",
+              "description": "Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527457501,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-03T19:51:34Z",
+                "owner": "schwallergroup",
+                "repo": "ai4chem_course",
+                "stars": 289
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Free Courses"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Learning Digital Chemistry",
+              "description": "Curated compilation of resources for learning digital chemistry, including courses, tutorials, and books.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786999129,
+                "language": null,
+                "last_commit": "2026-01-25T04:41:20Z",
+                "owner": "mlederbauer",
+                "repo": "awesome-learning-digital-chemistry",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blogs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "DeepChem Tutorials",
               "description": "Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.",
               "children": [],
@@ -923,7 +989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:29:00.810Z",
+    "last_updated": "2026-08-24T14:35:55.548Z",
     "original_repository": "yboulaamane/awesome-drug-discovery",
     "original_repository_id": 743983436,
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
