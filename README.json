@@ -314,7 +314,7 @@
             "archived": false,
             "id": 407040831,
             "language": "Python",
-            "last_commit": "2026-08-17T23:08:08Z",
+            "last_commit": "2026-08-24T22:50:33Z",
             "owner": "forlilab",
             "repo": "molscrub",
             "stars": 58
@@ -479,7 +479,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6955
+                "stars": 6959
               }
             },
             {
@@ -591,7 +591,7 @@
                 "last_commit": "2026-05-29T08:20:25Z",
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4173
+                "stars": 4175
               }
             },
             {
@@ -603,10 +603,10 @@
                 "archived": false,
                 "id": 819771555,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-22T01:24:15Z",
+                "last_commit": "2026-08-24T22:45:56Z",
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2920
+                "stars": 2921
               }
             },
             {
@@ -916,7 +916,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6955
+                "stars": 6959
               }
             },
             {
@@ -931,7 +931,7 @@
                 "last_commit": "2026-08-22T16:47:39Z",
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
-                "stars": 1298
+                "stars": 1299
               }
             },
             {
@@ -989,7 +989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:55.548Z",
+    "last_updated": "2026-08-25T06:34:23.196Z",
     "original_repository": "yboulaamane/awesome-drug-discovery",
     "original_repository_id": 743983436,
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
