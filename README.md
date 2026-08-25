@@ -316,7 +316,7 @@ Computational methods for identifying and developing new drug candidates.
 * [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,175 | 🐛 154 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
 * [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,921 | 🐛 72 | 🌐 Jupyter Notebook | 📅 2026-08-24 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
 * [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,986 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
-* [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,154 | 🐛 112 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
+* [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,155 | 🐛 112 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
 * [MolBERT](https://github.com/BenevolentAI/MolBERT) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2021-06-06 - Transformer-based molecular representation learning.
 * [Zatom](https://github.com/Zatom-AI/zatom) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-07-25 - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
 * [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) - Pretrained BERT-like models for molecules from SMILES.
