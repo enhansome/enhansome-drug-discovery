@@ -122,8 +122,8 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Protein Engineering and Modeling
 
-* [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) ⭐ 3,025 | 🐛 244 | 🌐 Python | 📅 2026-07-15 - Open-source method for de novo protein design using structure-guided diffusion models.
-* [PDBFixer](https://github.com/openmm/pdbfixer) ⭐ 671 | 🐛 60 | 🌐 Python | 📅 2026-03-10 - Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.
+* [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) ⭐ 3,026 | 🐛 244 | 🌐 Python | 📅 2026-07-15 - Open-source method for de novo protein design using structure-guided diffusion models.
+* [PDBFixer](https://github.com/openmm/pdbfixer) ⭐ 672 | 🐛 60 | 🌐 Python | 📅 2026-03-10 - Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.
 * [Melodia](https://github.com/rwmontalvao/Melodia_py) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2026-04-29 - Python library for analyzing and comparing protein structure shapes via differential geometry.
 * [DynaMut](https://biosig.lab.uq.edu.au/dynamut/) - Predicts mutation-induced stability changes.
 * [SWISS-MODEL](https://swissmodel.expasy.org/) - A fully automated protein structure homology-modeling server.
@@ -157,7 +157,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### QSAR and Descriptor Tools
 
-* [QSPRpred](https://github.com/CDDLeiden/QSPRpred) ⭐ 94 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-06-26 - Open-source Python toolkit for building, reproducing, and deploying QSAR/QSPR models.
+* [QSPRpred](https://github.com/CDDLeiden/QSPRpred) ⭐ 95 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-06-26 - Open-source Python toolkit for building, reproducing, and deploying QSAR/QSPR models.
 * [pyADA](https://github.com/jeffrichardchemistry/pyADA) ⭐ 28 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-02-08 - Assesses the applicability domain of molecular fingerprints via similarity-based thresholds for QSAR validation.
 * [QSAR Toolbox](https://qsartoolbox.org/) - Hazard assessment and QSAR.
 * [OCHEM](https://ochem.eu/home/show.do) - QSAR model building and prediction.
@@ -204,10 +204,10 @@ Computational methods for identifying and developing new drug candidates.
 ## Virtual Screening and Docking
 
 * [DiffDock](https://github.com/gcorso/DiffDock) ⭐ 1,569 | 🐛 132 | 🌐 Python | 📅 2025-05-02 - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.
-* [Gnina](https://github.com/gnina/gnina) ⭐ 964 | 🐛 24 | 🌐 C++ | 📅 2026-06-29 - CNN-scoring docking.
+* [Gnina](https://github.com/gnina/gnina) ⭐ 965 | 🐛 24 | 🌐 C++ | 📅 2026-06-29 - CNN-scoring docking.
 * [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 608 | 🐛 87 | 🌐 C++ | 📅 2026-08-11 - GPU-accelerated version of AutoDock for faster ligand-receptor docking.
 * [Meeko](https://github.com/forlilab/Meeko) ⭐ 386 | 🐛 48 | 🌐 Python | 📅 2026-08-25 - Prepares ligands/receptors for AutoDock by assigning partial charges and atom types.
-* [Smina](https://github.com/mwojcikowski/smina) ⭐ 148 | 🐛 0 | 🌐 C++ | 📅 2018-11-18 - Vina fork with extra features.
+* [Smina](https://github.com/mwojcikowski/smina) ⭐ 149 | 🐛 0 | 🌐 C++ | 📅 2018-11-18 - Vina fork with extra features.
 * [PandaDock](https://github.com/pritampanda15/PandaDock) ⭐ 100 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Python docking tool.
 * [EasyDock](https://github.com/ci-lab-cz/easydock) ⭐ 83 | 🐛 13 | 🌐 Python | 📅 2026-08-21 - Vina/Smina pipeline.
 * [MolScrub](https://github.com/forlilab/molscrub) ⭐ 58 | 🐛 6 | 🌐 Python | 📅 2026-08-24 - Enumerates tautomers, pH states, and conformers for docking and structure-based modeling.
@@ -301,7 +301,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Chemistry-focused ML Frameworks
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,960 | 🐛 1,165 | 🌐 Python | 📅 2026-08-20 - Open-source deep learning framework for chemistry and biology.
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,962 | 🐛 1,165 | 🌐 Python | 📅 2026-08-20 - Open-source deep learning framework for chemistry and biology.
 * [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,438 | 🐛 13 | 🌐 Python | 📅 2026-08-21 - Directed message passing neural networks for molecular property prediction.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 809 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - Graph deep learning toolkit for life sciences using the Deep Graph Library.
 * [scikit-mol](https://github.com/EBjerrum/scikit-mol) ⭐ 204 | 🐛 7 | 🌐 Python | 📅 2025-11-02 - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.
@@ -313,9 +313,9 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Pretrained Models
 
-* [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,176 | 🐛 152 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
-* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,925 | 🐛 73 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
-* [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,986 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
+* [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,179 | 🐛 152 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
+* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,928 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
+* [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,987 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
 * [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,155 | 🐛 112 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
 * [MolBERT](https://github.com/BenevolentAI/MolBERT) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2021-06-06 - Transformer-based molecular representation learning.
 * [Zatom](https://github.com/Zatom-AI/zatom) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-07-25 - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
@@ -403,7 +403,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Instructional Notebooks
 
-* [DeepChem Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 6,960 | 🐛 1,165 | 🌐 Python | 📅 2026-08-20 - Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.
+* [DeepChem Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 6,962 | 🐛 1,165 | 🌐 Python | 📅 2026-08-20 - Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.
 * [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) ⭐ 1,300 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-22 - Hands-on Jupyter tutorials for RDKit, SAR, clustering, generative models, and ML pipelines.
 * [intro\_pharma\_ai](https://github.com/kochgroup/intro_pharma_ai) ⭐ 167 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-09-09 - Notebook-based introduction to AI applications in pharma.
 * [how-to-train-your-chemeleon](https://github.com/JacksonBurns/how-to-train-your-chemeleon) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-07-06 - Tutorial and framework for training chemical machine learning models.
@@ -433,4 +433,4 @@ Computational methods for identifying and developing new drug candidates.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

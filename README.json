@@ -39,7 +39,7 @@
                 "last_commit": "2026-07-15T18:08:01Z",
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3025
+                "stars": 3026
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-03-10T23:26:39Z",
                 "owner": "openmm",
                 "repo": "pdbfixer",
-                "stars": 671
+                "stars": 672
               }
             },
             {
@@ -97,7 +97,7 @@
                 "last_commit": "2026-06-26T14:40:28Z",
                 "owner": "CDDLeiden",
                 "repo": "QSPRpred",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -227,7 +227,7 @@
             "last_commit": "2026-06-29T14:46:52Z",
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2018-11-18T15:24:36Z",
             "owner": "mwojcikowski",
             "repo": "smina",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -479,7 +479,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6960
+                "stars": 6962
               }
             },
             {
@@ -591,7 +591,7 @@
                 "last_commit": "2026-05-29T08:20:25Z",
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4176
+                "stars": 4179
               }
             },
             {
@@ -606,7 +606,7 @@
                 "last_commit": "2026-08-25T22:04:31Z",
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2925
+                "stars": 2928
               }
             },
             {
@@ -621,7 +621,7 @@
                 "last_commit": "2026-06-30T07:48:29Z",
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 1986
+                "stars": 1987
               }
             },
             {
@@ -916,7 +916,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6960
+                "stars": 6962
               }
             },
             {
@@ -989,9 +989,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:24:05.775Z",
-    "original_repository": "yboulaamane/awesome-drug-discovery",
-    "original_repository_id": 743983436,
+    "last_updated": "2026-08-27T11:38:03.555Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 743983436,
+      "language": null,
+      "last_commit": "2026-07-30T08:19:25Z",
+      "owner": "yboulaamane",
+      "repo": "awesome-drug-discovery",
+      "stars": 146
+    },
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
     "enhanced_repository": "enhansome/enhansome-drug-discovery",
     "enhanced_repository_description": null,
