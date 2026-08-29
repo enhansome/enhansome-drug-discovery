@@ -46,7 +46,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-15T18:08:01Z",
-                "open_issues": 244,
+                "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
                 "stars": 3028,
@@ -289,7 +289,7 @@
             "open_issues": 132,
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1570,
+            "stars": 1571,
             "topics": [
               "binding",
               "computational-biology",
@@ -711,7 +711,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1167,
+                "open_issues": 1168,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 6967,
@@ -921,7 +921,7 @@
                 "open_issues": 74,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2931,
+                "stars": 2930,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1427,7 +1427,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1167,
+                "open_issues": 1168,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 6967,
@@ -1542,7 +1542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:01.578Z",
+    "last_updated": "2026-08-29T13:59:59.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
