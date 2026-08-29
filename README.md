@@ -313,7 +313,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Pretrained Models
 
-* [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,184 | 🐛 152 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
+* [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,185 | 🐛 152 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
 * [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,931 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-08-27 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
 * [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,987 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
 * [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,156 | 🐛 113 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
@@ -433,4 +433,4 @@ Computational methods for identifying and developing new drug candidates.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

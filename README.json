@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A machine learning pipeline for predicting protein-ligand binding sites from PDB structures, inspired by the P2Rank approach. The pipeline extracts geometric, physicochemical and evolutionary features from protein surfaces and prepares them for training a Random Forest classifier.",
+                "homepage": null,
                 "id": 1200563881,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-04-05T06:36:00Z",
+                "open_issues": 0,
                 "owner": "MariaPau03",
                 "repo": "Pocket_Binding_Site_Prediction",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for running RFdiffusion",
+                "homepage": null,
                 "id": 620471484,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-15T18:08:01Z",
+                "open_issues": 244,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3028
+                "stars": 3028,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PDBFixer fixes problems in PDB files",
+                "homepage": null,
                 "id": 12472664,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-10T23:26:39Z",
+                "open_issues": 60,
                 "owner": "openmm",
                 "repo": "pdbfixer",
-                "stars": 672
+                "stars": 672,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Protein Structure Analysis",
+                "homepage": null,
                 "id": 452679610,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-29T13:41:02Z",
+                "open_issues": 1,
                 "owner": "rwmontalvao",
                 "repo": "Melodia_py",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -96,12 +116,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for creating Quantitative Structure Property/Activity Relationship (QSPR/QSAR) models.",
+                "homepage": "https://cddleiden.github.io/QSPRpred/docs/",
                 "id": 588500019,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-26T14:40:28Z",
+                "open_issues": 5,
                 "owner": "CDDLeiden",
                 "repo": "QSPRpred",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "cheminformatics",
+                  "drug-discovery",
+                  "machine-learning",
+                  "qsar",
+                  "qspr"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -112,12 +143,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cheminformatics package to perform Applicability Domain of molecular fingerprints based in similarity calculation.",
+                "homepage": null,
                 "id": 340351316,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-08T17:14:12Z",
+                "open_issues": 1,
                 "owner": "jeffrichardchemistry",
                 "repo": "pyADA",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "applicability-domain",
+                  "cheminformatics",
+                  "chemistry",
+                  "computational-chemistry",
+                  "molecular-fingerprints",
+                  "qsar"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -135,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a molecular descriptor calculator",
+                "homepage": "http://mordred-descriptor.github.io/documentation/master/",
                 "id": 48859647,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-02-07T21:10:44Z",
+                "open_issues": 55,
                 "owner": "mordred-descriptor",
                 "repo": "mordred",
-                "stars": 479
+                "stars": 479,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -151,12 +199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic molecular descriptor generator package ",
+                "homepage": null,
                 "id": 185446573,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-19T22:23:39Z",
+                "open_issues": 2,
                 "owner": "darkreactions",
                 "repo": "chemdescriptor",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -174,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive tool for identifying and extracting common 3D molecular fragments across datasets.",
+                "homepage": null,
                 "id": 936921213,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-24T07:47:58Z",
+                "open_issues": 0,
                 "owner": "1JELC1",
                 "repo": "FragmentFinder",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -190,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fragbuilder is a tool to create, setup and analyze QM calculations on peptides.",
+                "homepage": null,
                 "id": 20396815,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2014-10-31T00:15:09Z",
+                "open_issues": 0,
                 "owner": "andersx",
                 "repo": "fragbuilder",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -217,12 +280,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking",
+            "homepage": "https://arxiv.org/abs/2210.01776",
             "id": 545595027,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-02T13:59:19Z",
+            "open_issues": 132,
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1570
+            "stars": 1570,
+            "topics": [
+              "binding",
+              "computational-biology",
+              "diffusion-models",
+              "docking",
+              "equivariance",
+              "machine-learning",
+              "non-euclidean-geometry",
+              "score-based-models"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -233,12 +310,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deep learning framework for molecular docking",
+            "homepage": null,
             "id": 45548146,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-29T14:46:52Z",
+            "open_issues": 24,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 966
+            "stars": 966,
+            "topics": [
+              "cheminformatics",
+              "computational-chemistry",
+              "convolutional-neural-networks",
+              "drug-discovery",
+              "molecular-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -249,12 +337,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoDock for GPUs and other accelerators",
+            "homepage": "https://autodock.scripps.edu",
             "id": 191935321,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-11T19:00:24Z",
+            "open_issues": 87,
             "owner": "ccsb-scripps",
             "repo": "AutoDock-GPU",
-            "stars": 610
+            "stars": 610,
+            "topics": [
+              "autodock4",
+              "cuda",
+              "gpu-computing",
+              "molecular-docking",
+              "multicore-cpu",
+              "opencl"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -265,12 +365,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interface for AutoDock, molecule parameterization",
+            "homepage": "https://meeko.readthedocs.io/",
             "id": 310835794,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-27T23:52:09Z",
+            "open_issues": 48,
             "owner": "forlilab",
             "repo": "Meeko",
-            "stars": 386
+            "stars": 386,
+            "topics": [
+              "chemistry",
+              "drug-design",
+              "drug-discovery",
+              "drug-target-interactions",
+              "molecular-modeling"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -281,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 13803858,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-18T15:24:36Z",
+            "open_issues": 0,
             "owner": "mwojcikowski",
             "repo": "smina",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -297,12 +413,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PandaDock: Physics based Molecular Docking with GNN Scoring",
+            "homepage": "https://www.biorxiv.org/content/10.64898/2026.08.19.745667v1",
             "id": 955488326,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:10:01Z",
+            "open_issues": 0,
             "owner": "pritampanda15",
             "repo": "PandaDock",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "algorithm",
+              "cpu",
+              "cuda",
+              "docking",
+              "docking-application",
+              "flexible",
+              "gnn",
+              "graph",
+              "learning",
+              "machine",
+              "machine-learning",
+              "neural-network",
+              "pearson-correlation",
+              "physics",
+              "spearman-rank-correlation"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -313,12 +450,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully automated docking pipeline (can be run in distributed environments)",
+            "homepage": null,
             "id": 464400268,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T13:40:58Z",
+            "open_issues": 13,
             "owner": "ci-lab-cz",
             "repo": "easydock",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "molecular-docking"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -329,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enumerate conformational, protomeric, and pH-related microstates for docking with AutoDock",
+            "homepage": "https://molscrub.readthedocs.io/",
             "id": 407040831,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T22:50:33Z",
+            "open_issues": 6,
             "owner": "forlilab",
             "repo": "molscrub",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -345,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MzDOCK - An Automated GUI based pipeline for Molecular Docking",
+            "homepage": null,
             "id": 758918044,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T13:21:09Z",
+            "open_issues": 11,
             "owner": "Muzatheking12",
             "repo": "MzDOCK",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -361,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1226677906,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-01T21:55:19Z",
+            "open_issues": 1,
             "owner": "JanoschMenke",
             "repo": "chopdock",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -377,12 +536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EasyDockVina: Graphical User Interface for Ligand Optimization and Molecular Docking with AutoDock Vina.",
+            "homepage": null,
             "id": 238086075,
             "language": null,
+            "license": null,
             "last_commit": "2020-03-28T22:03:09Z",
+            "open_issues": 0,
             "owner": "S3cr3t-SDN",
             "repo": "EasyDockVina2",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         }
@@ -399,12 +563,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Publication-quality molecular graphics.",
+            "homepage": "https://xyzrender.readthedocs.io",
             "id": 1162804881,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T15:39:20Z",
+            "open_issues": 12,
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 594
+            "stars": 594,
+            "topics": [
+              "compchem",
+              "computational-chemistry",
+              "molecular-graphics",
+              "molecular-visualisation"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -415,12 +589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic protein labelling in PyMOL",
+            "homepage": null,
             "id": 1171507385,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-18T15:29:42Z",
+            "open_issues": 0,
             "owner": "connyyu",
             "repo": "pymol_sifts",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -431,12 +610,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-throughput docking pose validation: symmetry-corrected RMSD and lightweight PoseBusters-style distance/clash filters.",
+            "homepage": null,
             "id": 1149246283,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-19T11:46:04Z",
+            "open_issues": 0,
             "owner": "LigandPro",
             "repo": "posecheck-fast",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cheminformatics",
+              "drug-discovery",
+              "molecular-docking",
+              "pose-validation",
+              "posebusters",
+              "protein-ligand",
+              "pytorch",
+              "rdkit",
+              "rmsd",
+              "symmetry-correction"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         }
@@ -455,12 +650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "command line viewer for molecular dynamics simulations",
+                "homepage": null,
                 "id": 1218923935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-08T19:29:23Z",
+                "open_issues": 0,
                 "owner": "Kopec-Lab",
                 "repo": "cmd-viewer",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -471,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pharmacon: A Molecular Dynamics Analysis Toolkit",
+                "homepage": null,
                 "id": 1234487939,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-14T16:08:49Z",
+                "open_issues": 0,
                 "owner": "k-georgiou",
                 "repo": "pharmacon",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -500,12 +705,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+                "homepage": "https://deepchem.io/",
                 "id": 43098215,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
+                "open_issues": 1167,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6967
+                "stars": 6967,
+                "topics": [
+                  "biology",
+                  "deep-learning",
+                  "drug-discovery",
+                  "hacktoberfest",
+                  "materials-science",
+                  "quantum-chemistry"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -516,12 +733,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Message Passing Neural Networks for Molecule Property Prediction",
+                "homepage": "https://chemprop.csail.mit.edu",
                 "id": 167628014,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T20:08:40Z",
+                "open_issues": 14,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2439
+                "stars": 2439,
+                "topics": [
+                  "chemistry",
+                  "drug-discovery",
+                  "machine-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -532,12 +759,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for graph neural networks in chemistry and biology",
+                "homepage": null,
                 "id": 258124207,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-01T19:32:07Z",
+                "open_issues": 32,
                 "owner": "awslabs",
                 "repo": "dgl-lifesci",
-                "stars": 809
+                "stars": 809,
+                "topics": [
+                  "bioinformatics",
+                  "cheminformatics",
+                  "deep-learning",
+                  "dgl",
+                  "drug-discovery",
+                  "geometric-deep-learning",
+                  "graph-neural-networks",
+                  "molecule"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -548,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scikit-learn classes for molecular vectorization using RDKit",
+                "homepage": null,
                 "id": 532551447,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-11-02T15:29:43Z",
+                "open_issues": 7,
                 "owner": "EBjerrum",
                 "repo": "scikit-mol",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -564,12 +810,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChemML is a machine learning and informatics program suite for the chemical and materials sciences.",
+                "homepage": "https://hachmannlab.github.io/chemml",
                 "id": 113404097,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-19T21:39:05Z",
+                "open_issues": 3,
                 "owner": "hachmannlab",
                 "repo": "chemml",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "drug-discovery",
+                  "machine-learning",
+                  "materials-informatics",
+                  "quantum-mechanics"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -580,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ML-based ligand generator",
+                "homepage": null,
                 "id": 1062976423,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-08T15:17:02Z",
+                "open_issues": 1,
                 "owner": "HTS-Oracle",
                 "repo": "LigandForge",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -596,12 +859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheminformatics package from the Miranda-Quintana group ",
+                "homepage": null,
                 "id": 919720515,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-20T19:59:00Z",
+                "open_issues": 2,
                 "owner": "mqcomplab",
                 "repo": "iChem",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -619,12 +887,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for the Boltz biomolecular interaction models",
+                "homepage": null,
                 "id": 889915078,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-29T08:20:25Z",
+                "open_issues": 152,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4184
+                "stars": 4185,
+                "topics": [
+                  "binding-prediction",
+                  "drug-discovery",
+                  "protein-structure"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -635,12 +912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 819771555,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T21:41:06Z",
+                "open_issues": 74,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2931
+                "stars": 2931,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -651,12 +933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chai-1, SOTA model for biomolecular structure prediction",
+                "homepage": "https://www.chaidiscovery.com",
                 "id": 854372212,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-30T07:48:29Z",
+                "open_issues": 93,
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 1987
+                "stars": 1987,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -667,12 +954,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repository for the Uni-Mol Series Methods",
+                "homepage": null,
                 "id": 495067397,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-29T07:41:36Z",
+                "open_issues": 113,
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1156
+                "stars": 1156,
+                "topics": [
+                  "deep-learning",
+                  "molecular-modeling",
+                  "pre-trained-model",
+                  "pretraining"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -683,12 +980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 303364123,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-06T10:28:35Z",
+                "open_issues": 9,
                 "owner": "BenevolentAI",
                 "repo": "MolBERT",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -699,12 +1001,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of Zatom-1, a general-purpose model for 3D molecules and materials",
+                "homepage": null,
                 "id": 1038289785,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-25T19:15:20Z",
+                "open_issues": 1,
                 "owner": "Zatom-AI",
                 "repo": "zatom",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "3d-materials",
+                  "3d-molecules",
+                  "chemistry",
+                  "generative-model",
+                  "representation-learning",
+                  "scientific-machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -722,12 +1036,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Molecule Validation and Standardization",
+                "homepage": "https://molvs.readthedocs.io/",
                 "id": 21352292,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-04-16T18:15:23Z",
+                "open_issues": 23,
                 "owner": "mcs07",
                 "repo": "MolVS",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "cheminformatics",
+                  "chemistry",
+                  "python",
+                  "rdkit",
+                  "standardization",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -738,12 +1064,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reproducible cleaning and standardization of SMILES-based chemical datasets",
+                "homepage": null,
                 "id": 1207881093,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-15T14:11:50Z",
+                "open_issues": 0,
                 "owner": "nurtilekgalimov",
                 "repo": "cleanmol",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "cheminformatics",
+                  "data-cleaning",
+                  "drug-discovery",
+                  "machine-learning",
+                  "molecular-data",
+                  "python",
+                  "rdkit",
+                  "smiles"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -765,12 +1105,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Python client for accessing ChEMBL API",
+            "homepage": "https://www.ebi.ac.uk/chembl/api/data/docs",
             "id": 18640585,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-24T13:33:39Z",
+            "open_issues": 29,
             "owner": "chembl",
             "repo": "chembl_webresource_client",
-            "stars": 449
+            "stars": 449,
+            "topics": [
+              "chembl",
+              "cheminformatics",
+              "chemistry",
+              "chemoinformatics",
+              "python",
+              "rest",
+              "rest-client"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -781,12 +1134,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyChem-Pro: 100% Python API, fast, flexible & programmable molecular viewer - 2D and 3D, molecular docking pose viewer, cheminformatics library, molecular descriptor calculator, molecular editor, chemical drawing editor, QSAR model developer, and many more...",
+            "homepage": null,
             "id": 1203909758,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T01:40:03Z",
+            "open_issues": 4,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "bioinformatics",
+              "chemical-editor",
+              "chemical-space-plot",
+              "cheminformatics",
+              "chemistry-drawing",
+              "drug-discovery",
+              "machine-learning",
+              "molecular-descriptors",
+              "molecular-docking",
+              "molecular-viewer",
+              "qsar"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -797,12 +1167,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📐 Symmetry-corrected RMSD in Python",
+            "homepage": "https://spyrmsd.readthedocs.io",
             "id": 214157073,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T07:59:03Z",
+            "open_issues": 6,
             "owner": "RMeli",
             "repo": "spyrmsd",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "cadd",
+              "computational-biology",
+              "computational-chemistry",
+              "computer-aided-drug-design",
+              "docking",
+              "drug-discovery",
+              "molecular-docking",
+              "rmsd",
+              "symmetry"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -813,12 +1198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular and user-friendly Python framework for protein and ligand engineering workflows on SLURM clusters",
+            "homepage": null,
             "id": 1155324848,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-28T07:03:08Z",
+            "open_issues": 0,
             "owner": "locbp-uzh",
             "repo": "biopipelines",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -829,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chemical Space Visualization",
+            "homepage": null,
             "id": 1062847686,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-11T16:31:15Z",
+            "open_issues": 1,
             "owner": "mqcomplab",
             "repo": "NAMI",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -845,12 +1240,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python package for extracting composition-property data from scientific articles for building databases",
+            "homepage": "https://slimeslab.github.io/ComProScanner/",
             "id": 1082513505,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-11T10:23:13Z",
+            "open_issues": 1,
             "owner": "slimeslab",
             "repo": "ComProScanner",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "automation",
+              "crewai",
+              "crewai-agents",
+              "data-cleaning",
+              "evaluation",
+              "information-retrieval",
+              "llm",
+              "llm-agents",
+              "materials-informatics",
+              "materials-science",
+              "python",
+              "python312",
+              "python313",
+              "text-mining",
+              "text-mining-in-python",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -861,12 +1278,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stage-based evaluation pipeline for generative molecular design: filters, retrosynthesis checks, docking, pose validation, reports, CLI/TUI.",
+            "homepage": "https://hedgehog.ligandpro.ru",
             "id": 1017318033,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-22T10:10:24Z",
+            "open_issues": 3,
             "owner": "LigandPro",
             "repo": "hedgehog",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "boltz2",
+              "cheminformatics",
+              "cli",
+              "docking",
+              "drug-design",
+              "drug-discovery",
+              "generative-ai",
+              "generative-chemistry",
+              "gnina",
+              "molecular-generation",
+              "python",
+              "rdkit",
+              "retrosynthesis",
+              "smina",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -877,12 +1315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bioassay Curve Fit",
+            "homepage": null,
             "id": 1159727816,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-09T10:24:06Z",
+            "open_issues": 0,
             "owner": "yapici",
             "repo": "assaycurvefit",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         },
@@ -893,12 +1336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-first cheminformatics CLI using Node.js + RDKit WASM",
+            "homepage": null,
             "id": 1182866291,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-19T19:29:28Z",
+            "open_issues": 0,
             "owner": "scottmreed",
             "repo": "rdkit-agent",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
         }
@@ -917,12 +1365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EPFL CH-457 \"AI for chemistry\"",
+                "homepage": "https://schwallergroup.github.io/ai4chem_course/",
                 "id": 527457501,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-04-03T19:51:34Z",
+                "open_issues": 3,
                 "owner": "schwallergroup",
                 "repo": "ai4chem_course",
-                "stars": 290
+                "stars": 290,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -940,12 +1393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a curated list of resources for everyone interested in learning about digital chemistry",
+                "homepage": null,
                 "id": 786999129,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-01-25T04:41:20Z",
+                "open_issues": 5,
                 "owner": "mlederbauer",
                 "repo": "awesome-learning-digital-chemistry",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -963,12 +1421,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+                "homepage": "https://deepchem.io/",
                 "id": 43098215,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
+                "open_issues": 1167,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6967
+                "stars": 6967,
+                "topics": [
+                  "biology",
+                  "deep-learning",
+                  "drug-discovery",
+                  "hacktoberfest",
+                  "materials-science",
+                  "quantum-chemistry"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -979,12 +1449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical Cheminformatics Tutorials",
+                "homepage": null,
                 "id": 472123423,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-22T16:47:39Z",
+                "open_issues": 0,
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
-                "stars": 1301
+                "stars": 1301,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -995,12 +1470,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Jupyter Notebooks that are designed to teach life science students about deep learning.",
+                "homepage": "https://doi.org/10.1002/ardp.202200628",
                 "id": 399444522,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-09T15:20:58Z",
+                "open_issues": 5,
                 "owner": "kochgroup",
                 "repo": "intro_pharma_ai",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "ai",
+                  "cheminformatics",
+                  "deep-learning",
+                  "instructions",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -1011,12 +1497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-train your own CheMeleon Model",
+                "homepage": null,
                 "id": 1211612998,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-06T18:57:20Z",
+                "open_issues": 1,
                 "owner": "JacksonBurns",
                 "repo": "how-to-train-your-chemeleon",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             },
@@ -1027,12 +1518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "presentation of molecules",
+                "homepage": null,
                 "id": 1197780247,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-04-05T12:44:14Z",
+                "open_issues": 0,
                 "owner": "mohamedzaghloul-lab638",
                 "repo": "rdkit-tips-and-tricks-",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
             }
@@ -1046,15 +1542,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:21:51.648Z",
+    "last_updated": "2026-08-29T04:56:01.578Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
+      "homepage": null,
       "id": 743983436,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-30T08:19:25Z",
+      "open_issues": 12,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
-      "stars": 146
+      "stars": 146,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "drug-discovery",
+        "molecular-modeling"
+      ]
     },
     "original_repository_sha": "4815deff1a6a47f5ebac63db7b776e3dd96bdbeb",
     "enhanced_repository": "enhansome/enhansome-drug-discovery",
