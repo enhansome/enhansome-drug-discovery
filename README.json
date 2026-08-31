@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3028,
+                "stars": 3030,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -187,7 +187,7 @@
                 "open_issues": 55,
                 "owner": "mordred-descriptor",
                 "repo": "mordred",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -319,7 +319,7 @@
             "open_issues": 24,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 965,
+            "stars": 966,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -371,7 +371,7 @@
             "language": "Python",
             "license": "LGPL-2.1",
             "last_commit": "2026-08-27T23:52:09Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "forlilab",
             "repo": "Meeko",
             "stars": 386,
@@ -459,7 +459,7 @@
             "open_issues": 13,
             "owner": "ci-lab-cz",
             "repo": "easydock",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "molecular-docking"
             ]
@@ -742,7 +742,7 @@
                 "open_issues": 15,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2442,
+                "stars": 2443,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -815,7 +815,7 @@
                 "id": 113404097,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-19T21:39:05Z",
+                "last_commit": "2026-08-31T02:12:31Z",
                 "open_issues": 3,
                 "owner": "hachmannlab",
                 "repo": "chemml",
@@ -896,7 +896,7 @@
                 "open_issues": 152,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4186,
+                "stars": 4188,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -921,7 +921,7 @@
                 "open_issues": 74,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2933,
+                "stars": 2935,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -942,7 +942,7 @@
                 "open_issues": 93,
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 1987,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1176,7 +1176,7 @@
             "open_issues": 6,
             "owner": "RMeli",
             "repo": "spyrmsd",
-            "stars": 119,
+            "stars": 121,
             "topics": [
               "cadd",
               "computational-biology",
@@ -1374,7 +1374,7 @@
                 "open_issues": 3,
                 "owner": "schwallergroup",
                 "repo": "ai4chem_course",
-                "stars": 290,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1458,7 +1458,7 @@
                 "open_issues": 0,
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
-                "stars": 1302,
+                "stars": 1303,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1542,7 +1542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:59:16.373Z",
+    "last_updated": "2026-08-31T16:22:39.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
@@ -1554,7 +1554,7 @@
       "open_issues": 12,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
-      "stars": 146,
+      "stars": 147,
       "topics": [
         "awesome",
         "awesome-list",
