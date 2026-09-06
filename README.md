@@ -302,7 +302,7 @@ Computational methods for identifying and developing new drug candidates.
 ### Chemistry-focused ML Frameworks
 
 * [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,976 | 🐛 1,177 | 🌐 Python | 📅 2026-08-20 - Open-source deep learning framework for chemistry and biology.
-* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,454 | 🐛 18 | 🌐 Python | 📅 2026-09-01 - Directed message passing neural networks for molecular property prediction.
+* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,455 | 🐛 18 | 🌐 Python | 📅 2026-09-01 - Directed message passing neural networks for molecular property prediction.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 809 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - Graph deep learning toolkit for life sciences using the Deep Graph Library.
 * [scikit-mol](https://github.com/EBjerrum/scikit-mol) ⭐ 204 | 🐛 7 | 🌐 Python | 📅 2025-11-02 - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.
 * [ChemML](https://github.com/hachmannlab/chemml) ⭐ 180 | 🐛 3 | 🌐 Python | 📅 2026-08-31 - Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
@@ -313,8 +313,8 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Pretrained Models
 
-* [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,197 | 🐛 142 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
-* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,942 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-09-03 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
+* [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,199 | 🐛 142 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
+* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,940 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-09-03 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
 * [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,990 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
 * [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,159 | 🐛 113 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
 * [MolBERT](https://github.com/BenevolentAI/MolBERT) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2021-06-06 - Transformer-based molecular representation learning.
@@ -334,7 +334,7 @@ Computational methods for identifying and developing new drug candidates.
 * [spyrmsd](https://github.com/RMeli/spyrmsd) ⭐ 121 | 🐛 6 | 🌐 Python | 📅 2026-08-03 - Python tool for symmetry-corrected RMSD calculations using graph isomorphism.
 * [biopipelines](https://github.com/locbp-uzh/biopipelines) ⭐ 105 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-28 - Modular Python framework for automated computational protein and ligand engineering workflows on SLURM clusters.
 * [NAMI](https://github.com/mqcomplab/NAMI) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-08-11 - Computational tool for clustering and evaluating differences across molecular datasets.
-* [ComProScanner](https://github.com/slimeslab/ComProScanner) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-08-11 - Pipeline for automated large-scale profiling and screening of chemical compounds against protein targets.
+* [ComProScanner](https://github.com/slimeslab/ComProScanner) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-08-11 - Pipeline for automated large-scale profiling and screening of chemical compounds against protein targets.
 * [HEDGEHOG](https://github.com/LigandPro/hedgehog) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2026-06-22 - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, and reports.
 * [AssayCurveFit (GitHub)](https://github.com/yapici/assaycurvefit) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Source repository for IC50/EC50 calculation from biochemical assays.
 * [rdkit-agent](https://github.com/scottmreed/rdkit-agent) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-19 - Agent-first cheminformatics CLI powered by RDKit WASM for structure validation and format conversion.
@@ -433,4 +433,4 @@ Computational methods for identifying and developing new drug candidates.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

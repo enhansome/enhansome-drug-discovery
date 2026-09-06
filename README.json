@@ -742,7 +742,7 @@
                 "open_issues": 18,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2454,
+                "stars": 2455,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -896,7 +896,7 @@
                 "open_issues": 142,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4197,
+                "stars": 4199,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -918,10 +918,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T20:59:43Z",
-                "open_issues": 66,
+                "open_issues": 67,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2942,
+                "stars": 2940,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1249,7 +1249,7 @@
             "open_issues": 1,
             "owner": "slimeslab",
             "repo": "ComProScanner",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "automation",
               "crewai",
@@ -1542,7 +1542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:03:56.785Z",
+    "last_updated": "2026-09-06T12:19:31.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
@@ -1551,7 +1551,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-30T08:19:25Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
       "stars": 147,
