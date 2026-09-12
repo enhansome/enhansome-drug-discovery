@@ -121,7 +121,7 @@
                 "id": 588500019,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-06-26T14:40:28Z",
+                "last_commit": "2026-09-11T14:04:35Z",
                 "open_issues": 5,
                 "owner": "CDDLeiden",
                 "repo": "QSPRpred",
@@ -422,7 +422,7 @@
             "open_issues": 0,
             "owner": "pritampanda15",
             "repo": "PandaDock",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "algorithm",
               "cpu",
@@ -478,8 +478,8 @@
             "id": 407040831,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T00:41:21Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-12T01:45:02Z",
+            "open_issues": 8,
             "owner": "forlilab",
             "repo": "molscrub",
             "stars": 60,
@@ -572,7 +572,7 @@
             "open_issues": 12,
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 601,
+            "stars": 602,
             "topics": [
               "compchem",
               "computational-chemistry",
@@ -714,7 +714,7 @@
                 "open_issues": 1175,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6988,
+                "stars": 6989,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -739,10 +739,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2462,
+                "stars": 2463,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -815,7 +815,7 @@
                 "id": 113404097,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-09T21:28:22Z",
+                "last_commit": "2026-09-11T17:13:57Z",
                 "open_issues": 3,
                 "owner": "hachmannlab",
                 "repo": "chemml",
@@ -921,7 +921,7 @@
                 "open_issues": 67,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2948,
+                "stars": 2951,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -963,7 +963,7 @@
                 "open_issues": 113,
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1159,
+                "stars": 1160,
                 "topics": [
                   "deep-learning",
                   "molecular-modeling",
@@ -1143,7 +1143,7 @@
             "open_issues": 4,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 355,
+            "stars": 357,
             "topics": [
               "bioinformatics",
               "chemical-editor",
@@ -1374,7 +1374,7 @@
                 "open_issues": 3,
                 "owner": "schwallergroup",
                 "repo": "ai4chem_course",
-                "stars": 291,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1430,7 +1430,7 @@
                 "open_issues": 1175,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6988,
+                "stars": 6989,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1542,7 +1542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:00:24.139Z",
+    "last_updated": "2026-09-12T12:21:34.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
