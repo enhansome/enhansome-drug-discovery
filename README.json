@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3043,
+                "stars": 3044,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -289,7 +289,7 @@
             "open_issues": 132,
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1573,
+            "stars": 1574,
             "topics": [
               "binding",
               "computational-biology",
@@ -319,7 +319,7 @@
             "open_issues": 24,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -346,7 +346,7 @@
             "open_issues": 88,
             "owner": "ccsb-scripps",
             "repo": "AutoDock-GPU",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "autodock4",
               "cuda",
@@ -711,10 +711,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1179,
+                "open_issues": 1180,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6990,
+                "stars": 6994,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -893,10 +893,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-29T08:20:25Z",
-                "open_issues": 138,
+                "open_issues": 137,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4204,
+                "stars": 4206,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -1207,7 +1207,7 @@
             "open_issues": 0,
             "owner": "locbp-uzh",
             "repo": "biopipelines",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1228,7 +1228,7 @@
             "open_issues": 1,
             "owner": "mqcomplab",
             "repo": "NAMI",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1283,7 +1283,7 @@
             "id": 1017318033,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T20:11:07Z",
+            "last_commit": "2026-09-14T10:49:17Z",
             "open_issues": 3,
             "owner": "LigandPro",
             "repo": "hedgehog",
@@ -1374,7 +1374,7 @@
                 "open_issues": 3,
                 "owner": "schwallergroup",
                 "repo": "ai4chem_course",
-                "stars": 292,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1427,10 +1427,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1179,
+                "open_issues": 1180,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6990,
+                "stars": 6994,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1542,7 +1542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:27:48.182Z",
+    "last_updated": "2026-09-14T15:14:30.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
@@ -1554,7 +1554,7 @@
       "open_issues": 13,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
-      "stars": 149,
+      "stars": 150,
       "topics": [
         "awesome",
         "awesome-list",
