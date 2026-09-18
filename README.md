@@ -203,10 +203,10 @@ Computational methods for identifying and developing new drug candidates.
 
 ## Virtual Screening and Docking
 
-* [DiffDock](https://github.com/gcorso/DiffDock) ⭐ 1,572 | 🐛 132 | 🌐 Python | 📅 2025-05-02 - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.
+* [DiffDock](https://github.com/gcorso/DiffDock) ⭐ 1,573 | 🐛 132 | 🌐 Python | 📅 2025-05-02 - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.
 * [Gnina](https://github.com/gnina/gnina) ⭐ 974 | 🐛 24 | 🌐 C++ | 📅 2026-06-29 - CNN-scoring docking.
 * [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 611 | 🐛 88 | 🌐 C++ | 📅 2026-08-11 - GPU-accelerated version of AutoDock for faster ligand-receptor docking.
-* [Meeko](https://github.com/forlilab/Meeko) ⭐ 385 | 🐛 51 | 🌐 Python | 📅 2026-09-08 - Prepares ligands/receptors for AutoDock by assigning partial charges and atom types.
+* [Meeko](https://github.com/forlilab/Meeko) ⭐ 385 | 🐛 52 | 🌐 Python | 📅 2026-09-18 - Prepares ligands/receptors for AutoDock by assigning partial charges and atom types.
 * [Smina](https://github.com/mwojcikowski/smina) ⭐ 149 | 🐛 0 | 🌐 C++ | 📅 2018-11-18 - Vina fork with extra features.
 * [PandaDock](https://github.com/pritampanda15/PandaDock) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Python docking tool.
 * [EasyDock](https://github.com/ci-lab-cz/easydock) ⭐ 88 | 🐛 13 | 🌐 Python | 📅 2026-09-01 - Vina/Smina pipeline.
@@ -231,7 +231,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ## Interaction Analysis and Visualization
 
-* [xyzrender](https://github.com/aligfellow/xyzrender) ⭐ 606 | 🐛 12 | 🌐 Python | 📅 2026-08-13 - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
+* [xyzrender](https://github.com/aligfellow/xyzrender) ⭐ 609 | 🐛 12 | 🌐 Python | 📅 2026-08-13 - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
 * [pymol-sifts](https://github.com/connyyu/pymol_sifts/) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-05-18 - PyMOL plugin for integrating and visually mapping SIFTS structural and sequence data.
 * [posecheck-fast](https://github.com/LigandPro/posecheck-fast) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-02-19 - High-throughput docking pose validation with symmetry-corrected RMSD and lightweight distance and clash filters.
 * [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - Protein-ligand interaction profiling.
@@ -278,7 +278,7 @@ Computational methods for identifying and developing new drug candidates.
 ## Synthesis and Retrosynthesis Planning
 
 * [Spaya](https://spaya.ai/app/search) - AI-driven retrosynthesis engine with route ranking and synthetic feasibility scoring.
-* [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) ⭐ 892 | 🐛 10 | 🌐 Python | 📅 2026-04-13 - Monte Carlo tree search-based retrosynthesis using trained neural networks.
+* [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) ⭐ 894 | 🐛 10 | 🌐 Python | 📅 2026-04-13 - Monte Carlo tree search-based retrosynthesis using trained neural networks.
 * [ASKCOS](https://askcos.mit.edu/) - Synthesis route prediction with ML, developed by MIT.
 * [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction using transformer models.
 * [MANIFOLD](https://postera.ai/) - Search engine for synthetically accessible molecules and building blocks.
@@ -301,7 +301,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Chemistry-focused ML Frameworks
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,002 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20 - Open-source deep learning framework for chemistry and biology.
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,003 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20 - Open-source deep learning framework for chemistry and biology.
 * [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,466 | 🐛 20 | 🌐 Python | 📅 2026-09-01 - Directed message passing neural networks for molecular property prediction.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 810 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - Graph deep learning toolkit for life sciences using the Deep Graph Library.
 * [scikit-mol](https://github.com/EBjerrum/scikit-mol) ⭐ 204 | 🐛 7 | 🌐 Python | 📅 2025-11-02 - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.
@@ -313,9 +313,9 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Pretrained Models
 
-* [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,210 | 🐛 136 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
-* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,960 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
-* [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,998 | 🐛 93 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
+* [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,211 | 🐛 136 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
+* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,963 | 🐛 68 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
+* [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,998 | 🐛 94 | 🌐 Python | 📅 2026-06-30 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
 * [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,159 | 🐛 113 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
 * [MolBERT](https://github.com/BenevolentAI/MolBERT) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2021-06-06 - Transformer-based molecular representation learning.
 * [Zatom](https://github.com/Zatom-AI/zatom) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2026-07-25 - AI-driven generative chemistry platform for discovering and analyzing molecular structures.
@@ -330,10 +330,10 @@ Computational methods for identifying and developing new drug candidates.
 ## Utility and Workflow Tools
 
 * [chembl\_webresource\_client](https://github.com/chembl/chembl_webresource_client) ⭐ 449 | 🐛 29 | 🌐 Python | 📅 2026-03-24 - Official Python client library for programmatic access to the ChEMBL database API.
-* [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) ⭐ 360 | 🐛 1 | 🌐 Python | 📅 2026-09-17 - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
+* [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) ⭐ 360 | 🐛 1 | 🌐 Python | 📅 2026-09-18 - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
 * [spyrmsd](https://github.com/RMeli/spyrmsd) ⭐ 123 | 🐛 6 | 🌐 Python | 📅 2026-08-03 - Python tool for symmetry-corrected RMSD calculations using graph isomorphism.
 * [biopipelines](https://github.com/locbp-uzh/biopipelines) ⭐ 107 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Modular Python framework for automated computational protein and ligand engineering workflows on SLURM clusters.
-* [NAMI](https://github.com/mqcomplab/NAMI) ⭐ 27 | 🐛 3 | 🌐 Python | 📅 2026-08-11 - Computational tool for clustering and evaluating differences across molecular datasets.
+* [NAMI](https://github.com/mqcomplab/NAMI) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2026-08-11 - Computational tool for clustering and evaluating differences across molecular datasets.
 * [ComProScanner](https://github.com/slimeslab/ComProScanner) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-08-11 - Pipeline for automated large-scale profiling and screening of chemical compounds against protein targets.
 * [HEDGEHOG](https://github.com/LigandPro/hedgehog) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, and reports.
 * [AssayCurveFit (GitHub)](https://github.com/yapici/assaycurvefit) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Source repository for IC50/EC50 calculation from biochemical assays.
@@ -364,7 +364,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Free Courses
 
-* [AI for Chemistry Course](https://github.com/schwallergroup/ai4chem_course) ⭐ 294 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-03 - Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.
+* [AI for Chemistry Course](https://github.com/schwallergroup/ai4chem_course) ⭐ 293 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-03 - Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.
 * [TMP Chem Lectures](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) - Recorded lectures from a leading cheminformatics summer school.
 * [Strasbourg Summer School in Chemoinformatics](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - Summer school lectures.
 * [BIGCHEM](https://bigchem.eu/node/63) - Online course on big data applications in chemistry.
@@ -380,6 +380,9 @@ Computational methods for identifying and developing new drug candidates.
 * [AI for Chemistry (ai4chem Book)](https://zzhenglab.github.io/ai4chem/intro.html) - An open-access book and interactive guide to machine learning and AI in chemistry.
 * [CCAS Training Materials](https://ccas.nd.edu/research/training-materials/) - Training resources for computer-assisted synthesis tools, reaction modeling, and machine learning.
 * [ML in Chemistry (CHEM 542)](https://sites.rutgers.edu/sun-lab/teach-chem542/) - Rutgers University course materials covering machine learning applications in chemical sciences.
+* [MLCHEM Tutorial Gallery](https://xuhuihuang.github.io/mlchem/html/examples.html) - Jupyter tutorials on machine learning for chemistry.
+* [Quimioinformática Aplicada al Diseño de Fármacos](https://difacquim.gitbook.io/quimioinformatica) - Spanish handbook on chemoinformatics and drug design.
+* [AiChemist Lectures and Seminars](https://aichemist.eu/lectures) - Lectures on AI applications in chemistry and drug discovery.
 
 ### Blogs
 
@@ -403,7 +406,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Instructional Notebooks
 
-* [DeepChem Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 7,002 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20 - Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.
+* [DeepChem Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 7,003 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20 - Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.
 * [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) ⭐ 1,309 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-22 - Hands-on Jupyter tutorials for RDKit, SAR, clustering, generative models, and ML pipelines.
 * [intro\_pharma\_ai](https://github.com/kochgroup/intro_pharma_ai) ⭐ 168 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-09-09 - Notebook-based introduction to AI applications in pharma.
 * [how-to-train-your-chemeleon](https://github.com/JacksonBurns/how-to-train-your-chemeleon) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-09-10 - Tutorial and framework for training chemical machine learning models.
@@ -434,4 +437,4 @@ Computational methods for identifying and developing new drug candidates.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
