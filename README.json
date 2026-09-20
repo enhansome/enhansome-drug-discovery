@@ -70,7 +70,7 @@
                 "open_issues": 61,
                 "owner": "openmm",
                 "repo": "pdbfixer",
-                "stars": 671,
+                "stars": 672,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -319,7 +319,7 @@
             "open_issues": 24,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 975,
+            "stars": 976,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -401,7 +401,7 @@
             "open_issues": 0,
             "owner": "mwojcikowski",
             "repo": "smina",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -714,7 +714,7 @@
                 "open_issues": 1180,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7005,
+                "stars": 7006,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -742,7 +742,7 @@
                 "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2467,
+                "stars": 2468,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -896,7 +896,7 @@
                 "open_issues": 136,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4211,
+                "stars": 4212,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -921,7 +921,7 @@
                 "open_issues": 68,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2964,
+                "stars": 2966,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -963,7 +963,7 @@
                 "open_issues": 113,
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1160,
+                "stars": 1161,
                 "topics": [
                   "deep-learning",
                   "molecular-modeling",
@@ -1430,7 +1430,7 @@
                 "open_issues": 1180,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7005,
+                "stars": 7006,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1542,7 +1542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:41:12.299Z",
+    "last_updated": "2026-09-20T13:12:43.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
