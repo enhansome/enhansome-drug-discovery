@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3055,
+                "stars": 3057,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -208,7 +208,7 @@
                 "open_issues": 9,
                 "owner": "digital-chemistry-laboratory",
                 "repo": "morfeus",
-                "stars": 236,
+                "stars": 237,
                 "topics": []
               },
               "first_seen": "2026-09-21T15:19:30.632Z"
@@ -340,7 +340,7 @@
             "open_issues": 24,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 977,
+            "stars": 981,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -593,7 +593,7 @@
             "open_issues": 13,
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "compchem",
               "computational-chemistry",
@@ -697,7 +697,7 @@
                 "id": 1234487939,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-14T16:08:49Z",
+                "last_commit": "2026-09-23T11:06:42Z",
                 "open_issues": 0,
                 "owner": "k-georgiou",
                 "repo": "pharmacon",
@@ -732,10 +732,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1183,
+                "open_issues": 1184,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7009,
+                "stars": 7011,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -914,10 +914,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-29T08:20:25Z",
-                "open_issues": 136,
+                "open_issues": 135,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4214,
+                "stars": 4215,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -939,10 +939,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T14:23:40Z",
-                "open_issues": 71,
+                "open_issues": 73,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2972,
+                "stars": 2974,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1160,7 +1160,7 @@
             "id": 1203909758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T14:00:13Z",
+            "last_commit": "2026-09-22T14:55:53Z",
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
@@ -1246,7 +1246,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T22:14:32Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "mqcomplab",
             "repo": "NAMI",
             "stars": 28,
@@ -1448,10 +1448,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1183,
+                "open_issues": 1184,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7009,
+                "stars": 7011,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1479,7 +1479,7 @@
                 "open_issues": 0,
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
-                "stars": 1311,
+                "stars": 1315,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:39:45.226Z",
+    "last_updated": "2026-09-23T13:50:54.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
@@ -1575,7 +1575,7 @@
       "open_issues": 12,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
-      "stars": 151,
+      "stars": 152,
       "topics": [
         "awesome",
         "awesome-list",
