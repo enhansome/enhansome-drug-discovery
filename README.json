@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3057,
+                "stars": 3058,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -208,7 +208,7 @@
                 "open_issues": 9,
                 "owner": "digital-chemistry-laboratory",
                 "repo": "morfeus",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-09-21T15:19:30.632Z"
@@ -422,7 +422,7 @@
             "open_issues": 0,
             "owner": "mwojcikowski",
             "repo": "smina",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -593,7 +593,7 @@
             "open_issues": 13,
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 612,
+            "stars": 613,
             "topics": [
               "compchem",
               "computational-chemistry",
@@ -697,7 +697,7 @@
                 "id": 1234487939,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T11:06:42Z",
+                "last_commit": "2026-09-24T09:16:03Z",
                 "open_issues": 0,
                 "owner": "k-georgiou",
                 "repo": "pharmacon",
@@ -732,10 +732,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1184,
+                "open_issues": 1186,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7011,
+                "stars": 7013,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -885,7 +885,7 @@
                 "id": 919720515,
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
-                "last_commit": "2026-06-20T19:59:00Z",
+                "last_commit": "2026-09-23T20:11:58Z",
                 "open_issues": 2,
                 "owner": "mqcomplab",
                 "repo": "iChem",
@@ -942,7 +942,7 @@
                 "open_issues": 73,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2974,
+                "stars": 2975,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -984,7 +984,7 @@
                 "open_issues": 113,
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1161,
+                "stars": 1162,
                 "topics": [
                   "deep-learning",
                   "molecular-modeling",
@@ -1164,7 +1164,7 @@
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "bioinformatics",
               "chemical-editor",
@@ -1224,7 +1224,7 @@
             "id": 1155324848,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-16T09:48:43Z",
+            "last_commit": "2026-09-24T06:29:36Z",
             "open_issues": 0,
             "owner": "locbp-uzh",
             "repo": "biopipelines",
@@ -1249,7 +1249,7 @@
             "open_issues": 2,
             "owner": "mqcomplab",
             "repo": "NAMI",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1448,10 +1448,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1184,
+                "open_issues": 1186,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7011,
+                "stars": 7013,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1527,7 +1527,7 @@
                 "open_issues": 1,
                 "owner": "JacksonBurns",
                 "repo": "how-to-train-your-chemeleon",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:50:54.432Z",
+    "last_updated": "2026-09-24T13:46:52.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
