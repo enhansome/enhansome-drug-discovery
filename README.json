@@ -70,7 +70,7 @@
                 "open_issues": 61,
                 "owner": "openmm",
                 "repo": "pdbfixer",
-                "stars": 673,
+                "stars": 674,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -205,7 +205,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-02T17:02:58Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "digital-chemistry-laboratory",
                 "repo": "morfeus",
                 "stars": 238,
@@ -310,7 +310,7 @@
             "open_issues": 132,
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1575,
+            "stars": 1576,
             "topics": [
               "binding",
               "computational-biology",
@@ -340,7 +340,7 @@
             "open_issues": 24,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 981,
+            "stars": 982,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -593,7 +593,7 @@
             "open_issues": 13,
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 613,
+            "stars": 614,
             "topics": [
               "compchem",
               "computational-chemistry",
@@ -697,7 +697,7 @@
                 "id": 1234487939,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T09:16:03Z",
+                "last_commit": "2026-09-25T07:57:00Z",
                 "open_issues": 0,
                 "owner": "k-georgiou",
                 "repo": "pharmacon",
@@ -732,10 +732,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1186,
+                "open_issues": 1187,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7013,
+                "stars": 7016,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -917,7 +917,7 @@
                 "open_issues": 135,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4215,
+                "stars": 4218,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -939,10 +939,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T14:23:40Z",
-                "open_issues": 73,
+                "open_issues": 74,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2975,
+                "stars": 2976,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1164,7 +1164,7 @@
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "bioinformatics",
               "chemical-editor",
@@ -1331,27 +1331,6 @@
         },
         {
           "node_type": "item",
-          "title": "AssayCurveFit (GitHub)",
-          "description": "Source repository for IC50/EC50 calculation from biochemical assays.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bioassay Curve Fit",
-            "homepage": null,
-            "id": 1159727816,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-09-02T01:00:35Z",
-            "open_issues": 0,
-            "owner": "yapici",
-            "repo": "assaycurvefit",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:21:51.648Z"
-        },
-        {
-          "node_type": "item",
           "title": "rdkit-agent",
           "description": "Agent-first cheminformatics CLI powered by RDKit WASM for structure validation and format conversion.",
           "children": [],
@@ -1366,6 +1345,27 @@
             "open_issues": 0,
             "owner": "scottmreed",
             "repo": "rdkit-agent",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:21:51.648Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AssayCurveFit (GitHub)",
+          "description": "Source repository for IC50/EC50 calculation from biochemical assays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Bioassay Curve Fit",
+            "homepage": null,
+            "id": 1159727816,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-02T01:00:35Z",
+            "open_issues": 0,
+            "owner": "yapici",
+            "repo": "assaycurvefit",
             "stars": 9,
             "topics": []
           },
@@ -1448,10 +1448,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1186,
+                "open_issues": 1187,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7013,
+                "stars": 7016,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1524,7 +1524,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T19:42:03Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "JacksonBurns",
                 "repo": "how-to-train-your-chemeleon",
                 "stars": 14,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:46:52.652Z",
+    "last_updated": "2026-09-25T14:09:38.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
