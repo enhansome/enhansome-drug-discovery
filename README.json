@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3059,
+                "stars": 3066,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 61,
                 "owner": "openmm",
                 "repo": "pdbfixer",
-                "stars": 675,
+                "stars": 676,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -310,7 +310,7 @@
             "open_issues": 132,
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1576,
+            "stars": 1577,
             "topics": [
               "binding",
               "computational-biology",
@@ -340,7 +340,7 @@
             "open_issues": 24,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 982,
+            "stars": 983,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -593,7 +593,7 @@
             "open_issues": 13,
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 616,
+            "stars": 617,
             "topics": [
               "compchem",
               "computational-chemistry",
@@ -732,10 +732,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1203,
+                "open_issues": 1204,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7020,
+                "stars": 7023,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -854,6 +854,27 @@
             },
             {
               "node_type": "item",
+              "title": "iChem",
+              "description": "Python cheminformatics package for molecular comparisons, fingerprints, and chemical data analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cheminformatics package from the Miranda-Quintana group ",
+                "homepage": null,
+                "id": 919720515,
+                "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-23T20:11:58Z",
+                "open_issues": 2,
+                "owner": "mqcomplab",
+                "repo": "iChem",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:21:51.648Z"
+            },
+            {
+              "node_type": "item",
               "title": "LigandForge",
               "description": "ML-based structure-guided de novo ligand generation and optimization for hit identification.",
               "children": [],
@@ -869,27 +890,6 @@
                 "owner": "HTS-Oracle",
                 "repo": "LigandForge",
                 "stars": 23,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:21:51.648Z"
-            },
-            {
-              "node_type": "item",
-              "title": "iChem",
-              "description": "Python cheminformatics package for molecular comparisons, fingerprints, and chemical data analysis.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cheminformatics package from the Miranda-Quintana group ",
-                "homepage": null,
-                "id": 919720515,
-                "language": "Jupyter Notebook",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-23T20:11:58Z",
-                "open_issues": 2,
-                "owner": "mqcomplab",
-                "repo": "iChem",
-                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -917,7 +917,7 @@
                 "open_issues": 135,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4221,
+                "stars": 4224,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -942,7 +942,7 @@
                 "open_issues": 76,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2978,
+                "stars": 2979,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -960,10 +960,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-30T07:48:29Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 2000,
+                "stars": 2001,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1164,7 +1164,7 @@
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 363,
+            "stars": 366,
             "topics": [
               "bioinformatics",
               "chemical-editor",
@@ -1228,7 +1228,7 @@
             "open_issues": 0,
             "owner": "locbp-uzh",
             "repo": "biopipelines",
-            "stars": 108,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1448,10 +1448,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1203,
+                "open_issues": 1204,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7020,
+                "stars": 7023,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1479,7 +1479,7 @@
                 "open_issues": 0,
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
-                "stars": 1319,
+                "stars": 1321,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T16:59:59.855Z",
+    "last_updated": "2026-09-29T15:04:57.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
