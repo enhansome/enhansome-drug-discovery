@@ -88,7 +88,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-29T13:41:02Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "rwmontalvao",
                 "repo": "Melodia_py",
                 "stars": 86,
@@ -208,7 +208,7 @@
                 "open_issues": 10,
                 "owner": "digital-chemistry-laboratory",
                 "repo": "morfeus",
-                "stars": 238,
+                "stars": 237,
                 "topics": []
               },
               "first_seen": "2026-09-21T15:19:30.632Z"
@@ -367,7 +367,7 @@
             "open_issues": 89,
             "owner": "ccsb-scripps",
             "repo": "AutoDock-GPU",
-            "stars": 615,
+            "stars": 613,
             "topics": [
               "autodock4",
               "cuda",
@@ -735,7 +735,7 @@
                 "open_issues": 1210,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7027,
+                "stars": 7032,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -942,7 +942,7 @@
                 "open_issues": 80,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2980,
+                "stars": 2979,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1164,7 +1164,7 @@
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "bioinformatics",
               "chemical-editor",
@@ -1451,7 +1451,7 @@
                 "open_issues": 1210,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7027,
+                "stars": 7032,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:59:21.478Z",
+    "last_updated": "2026-10-03T04:42:41.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
