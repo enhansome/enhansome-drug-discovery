@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3069,
+                "stars": 3070,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -732,7 +732,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1210,
+                "open_issues": 1209,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7032,
@@ -917,7 +917,7 @@
                 "open_issues": 133,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4230,
+                "stars": 4231,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -1448,7 +1448,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1210,
+                "open_issues": 1209,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7032,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:41.775Z",
+    "last_updated": "2026-10-03T13:54:21.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
