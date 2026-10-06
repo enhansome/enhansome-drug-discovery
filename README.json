@@ -732,7 +732,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1211,
+                "open_issues": 1213,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7038,
@@ -917,7 +917,7 @@
                 "open_issues": 132,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4235,
+                "stars": 4234,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -942,7 +942,7 @@
                 "open_issues": 81,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2983,
+                "stars": 2985,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1448,7 +1448,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1211,
+                "open_issues": 1213,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7038,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:52.644Z",
+    "last_updated": "2026-10-06T15:26:34.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
