@@ -340,7 +340,7 @@
             "open_issues": 25,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 986,
+            "stars": 987,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -732,10 +732,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1213,
+                "open_issues": 1219,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7038,
+                "stars": 7041,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -760,7 +760,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
                 "stars": 2476,
@@ -836,7 +836,7 @@
                 "id": 113404097,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-11T17:13:57Z",
+                "last_commit": "2026-10-06T19:57:10Z",
                 "open_issues": 3,
                 "owner": "hachmannlab",
                 "repo": "chemml",
@@ -914,10 +914,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-29T08:20:25Z",
-                "open_issues": 132,
+                "open_issues": 133,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4234,
+                "stars": 4236,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -942,7 +942,7 @@
                 "open_issues": 81,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2985,
+                "stars": 2986,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -963,7 +963,7 @@
                 "open_issues": 98,
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 2001,
+                "stars": 2000,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -984,7 +984,7 @@
                 "open_issues": 113,
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1166,
+                "stars": 1167,
                 "topics": [
                   "deep-learning",
                   "molecular-modeling",
@@ -1164,7 +1164,7 @@
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "bioinformatics",
               "chemical-editor",
@@ -1448,10 +1448,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1213,
+                "open_issues": 1219,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7038,
+                "stars": 7041,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:26:34.228Z",
+    "last_updated": "2026-10-07T15:46:08.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
@@ -1572,10 +1572,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-21T14:54:01Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
-      "stars": 152,
+      "stars": 153,
       "topics": [
         "awesome",
         "awesome-list",
