@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3076,
+                "stars": 3078,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -87,8 +87,8 @@
                 "id": 452679610,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T17:11:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-08T09:41:00Z",
+                "open_issues": 1,
                 "owner": "rwmontalvao",
                 "repo": "Melodia_py",
                 "stars": 86,
@@ -208,7 +208,7 @@
                 "open_issues": 10,
                 "owner": "digital-chemistry-laboratory",
                 "repo": "morfeus",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-09-21T15:19:30.632Z"
@@ -732,10 +732,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1219,
+                "open_issues": 1220,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7041,
+                "stars": 7042,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -763,7 +763,7 @@
                 "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2476,
+                "stars": 2478,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -917,7 +917,7 @@
                 "open_issues": 133,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4236,
+                "stars": 4237,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -939,10 +939,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T14:23:40Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2986,
+                "stars": 2987,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1160,7 +1160,7 @@
             "id": 1203909758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T04:24:08Z",
+            "last_commit": "2026-10-08T02:27:17Z",
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
@@ -1308,7 +1308,7 @@
             "open_issues": 3,
             "owner": "LigandPro",
             "repo": "hedgehog",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "boltz2",
               "cheminformatics",
@@ -1448,10 +1448,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1219,
+                "open_issues": 1220,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7041,
+                "stars": 7042,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1527,7 +1527,7 @@
                 "open_issues": 0,
                 "owner": "JacksonBurns",
                 "repo": "how-to-train-your-chemeleon",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:46:08.701Z",
+    "last_updated": "2026-10-08T15:51:15.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
