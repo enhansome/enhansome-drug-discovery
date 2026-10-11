@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3083,
+                "stars": 3084,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -187,7 +187,7 @@
                 "open_issues": 55,
                 "owner": "mordred-descriptor",
                 "repo": "mordred",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -340,7 +340,7 @@
             "open_issues": 25,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 989,
+            "stars": 990,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -732,10 +732,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1223,
+                "open_issues": 1228,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7050,
+                "stars": 7049,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -763,7 +763,7 @@
                 "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2487,
+                "stars": 2494,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -1448,10 +1448,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1223,
+                "open_issues": 1228,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7050,
+                "stars": 7049,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:43:49.320Z",
+    "last_updated": "2026-10-11T15:04:18.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
