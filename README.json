@@ -49,7 +49,7 @@
                 "open_issues": 245,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3089,
+                "stars": 3090,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -340,7 +340,7 @@
             "open_issues": 25,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 994,
+            "stars": 996,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -732,10 +732,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1238,
+                "open_issues": 1241,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7064,
+                "stars": 7068,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -760,7 +760,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "chemprop",
                 "repo": "chemprop",
                 "stars": 2505,
@@ -914,10 +914,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-29T08:20:25Z",
-                "open_issues": 133,
+                "open_issues": 132,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4254,
+                "stars": 4256,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -942,7 +942,7 @@
                 "open_issues": 80,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 2994,
+                "stars": 2995,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1160,11 +1160,11 @@
             "id": 1203909758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T02:27:17Z",
+            "last_commit": "2026-10-18T04:22:52Z",
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "bioinformatics",
               "chemical-editor",
@@ -1448,10 +1448,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1238,
+                "open_issues": 1241,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7064,
+                "stars": 7068,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1479,7 +1479,7 @@
                 "open_issues": 0,
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
-                "stars": 1333,
+                "stars": 1335,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:24:14.223Z",
+    "last_updated": "2026-10-18T12:47:03.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
