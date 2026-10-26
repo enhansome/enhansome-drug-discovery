@@ -310,7 +310,7 @@
             "open_issues": 133,
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1587,
+            "stars": 1588,
             "topics": [
               "binding",
               "computational-biology",
@@ -340,7 +340,7 @@
             "open_issues": 25,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 999,
+            "stars": 1002,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -476,7 +476,7 @@
             "id": 464400268,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T19:36:35Z",
+            "last_commit": "2026-10-26T11:47:58Z",
             "open_issues": 14,
             "owner": "ci-lab-cz",
             "repo": "easydock",
@@ -735,7 +735,7 @@
                 "open_issues": 1262,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7086,
+                "stars": 7091,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -763,7 +763,7 @@
                 "open_issues": 26,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2512,
+                "stars": 2514,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -917,7 +917,7 @@
                 "open_issues": 135,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4269,
+                "stars": 4271,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -960,7 +960,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-30T07:48:29Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
                 "stars": 2005,
@@ -1451,7 +1451,7 @@
                 "open_issues": 1262,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7086,
+                "stars": 7091,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1479,7 +1479,7 @@
                 "open_issues": 0,
                 "owner": "PatWalters",
                 "repo": "practical_cheminformatics_tutorials",
-                "stars": 1335,
+                "stars": 1337,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1496,7 +1496,7 @@
                 "id": 399444522,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T02:01:57Z",
+                "last_commit": "2026-10-26T01:35:17Z",
                 "open_issues": 2,
                 "owner": "kochgroup",
                 "repo": "intro_pharma_ai",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:21:04.099Z",
+    "last_updated": "2026-10-26T15:27:56.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
