@@ -45,11 +45,11 @@
                 "id": 620471484,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-15T18:08:01Z",
-                "open_issues": 246,
+                "last_commit": "2026-10-28T16:51:54Z",
+                "open_issues": 247,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3107,
+                "stars": 3109,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 65,
                 "owner": "openmm",
                 "repo": "pdbfixer",
-                "stars": 680,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -337,7 +337,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T19:58:39Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "gnina",
             "repo": "gnina",
             "stars": 1007,
@@ -476,8 +476,8 @@
             "id": 464400268,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T11:47:58Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-29T14:17:02Z",
+            "open_issues": 13,
             "owner": "ci-lab-cz",
             "repo": "easydock",
             "stars": 88,
@@ -593,7 +593,7 @@
             "open_issues": 14,
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 621,
+            "stars": 622,
             "topics": [
               "compchem",
               "computational-chemistry",
@@ -735,7 +735,7 @@
                 "open_issues": 1261,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7098,
+                "stars": 7106,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -760,10 +760,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-21T18:37:52Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2513,
+                "stars": 2514,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -917,7 +917,7 @@
                 "open_issues": 134,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4278,
+                "stars": 4281,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -938,7 +938,7 @@
                 "id": 819771555,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T19:08:11Z",
+                "last_commit": "2026-10-29T15:25:51Z",
                 "open_issues": 80,
                 "owner": "Biohub",
                 "repo": "esm",
@@ -1451,7 +1451,7 @@
                 "open_issues": 1261,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7098,
+                "stars": 7106,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:25:55.038Z",
+    "last_updated": "2026-10-29T15:32:20.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
@@ -1572,7 +1572,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T13:05:31Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
       "stars": 157,
