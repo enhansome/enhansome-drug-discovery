@@ -49,7 +49,7 @@
                 "open_issues": 247,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3110,
+                "stars": 3113,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -336,11 +336,11 @@
             "id": 45548146,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T14:51:55Z",
+            "last_commit": "2026-10-30T18:59:05Z",
             "open_issues": 26,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 1008,
+            "stars": 1010,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -367,7 +367,7 @@
             "open_issues": 89,
             "owner": "forlilab",
             "repo": "AutoDock-GPU",
-            "stars": 614,
+            "stars": 613,
             "topics": [
               "autodock4",
               "cuda",
@@ -395,7 +395,7 @@
             "open_issues": 52,
             "owner": "forlilab",
             "repo": "Meeko",
-            "stars": 390,
+            "stars": 389,
             "topics": [
               "chemistry",
               "drug-design",
@@ -735,7 +735,7 @@
                 "open_issues": 1266,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7110,
+                "stars": 7112,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -763,7 +763,7 @@
                 "open_issues": 28,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2514,
+                "stars": 2515,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -917,7 +917,7 @@
                 "open_issues": 133,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4282,
+                "stars": 4280,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -942,7 +942,7 @@
                 "open_issues": 80,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 3008,
+                "stars": 3009,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -963,7 +963,7 @@
                 "open_issues": 99,
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 2007,
+                "stars": 2008,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -984,7 +984,7 @@
                 "open_issues": 113,
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1175,
+                "stars": 1176,
                 "topics": [
                   "deep-learning",
                   "molecular-modeling",
@@ -1395,7 +1395,7 @@
                 "open_issues": 3,
                 "owner": "schwallergroup",
                 "repo": "ai4chem_course",
-                "stars": 296,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1451,7 +1451,7 @@
                 "open_issues": 1266,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7110,
+                "stars": 7112,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:19:29.871Z",
+    "last_updated": "2026-10-31T14:44:41.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
@@ -1572,7 +1572,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T13:05:31Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
       "stars": 158,
