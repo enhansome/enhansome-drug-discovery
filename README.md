@@ -122,8 +122,8 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Protein Engineering and Modeling
 
-* [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) ⭐ 3,122 | 🐛 247 | 🌐 Python | 📅 2026-10-28 - Open-source method for de novo protein design using structure-guided diffusion models.
-* [PDBFixer](https://github.com/openmm/pdbfixer) ⭐ 683 | 🐛 65 | 🌐 Python | 📅 2026-03-10 - Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.
+* [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) ⭐ 3,127 | 🐛 247 | 🌐 Python | 📅 2026-10-28 - Open-source method for de novo protein design using structure-guided diffusion models.
+* [PDBFixer](https://github.com/openmm/pdbfixer) ⭐ 684 | 🐛 65 | 🌐 Python | 📅 2026-03-10 - Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.
 * [Melodia](https://github.com/rwmontalvao/Melodia_py) ⭐ 87 | 🐛 1 | 🌐 Python | 📅 2026-10-27 - Python library for analyzing and comparing protein structure shapes via differential geometry.
 * [DynaMut](https://biosig.lab.uq.edu.au/dynamut/) - Predicts mutation-induced stability changes.
 * [SWISS-MODEL](https://swissmodel.expasy.org/) - A fully automated protein structure homology-modeling server.
@@ -197,7 +197,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Fragment-Based Drug Design
 
-* [FragmentFinder](https://github.com/1JELC1/FragmentFinder) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-03-24 - Computational tool for identifying and matching structural fragments in drug discovery workflows.
+* [FragmentFinder](https://github.com/1JELC1/FragmentFinder) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-03-24 - Computational tool for identifying and matching structural fragments in drug discovery workflows.
 * [FragBuilder](https://github.com/andersx/fragbuilder) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2014-10-31 - Python API for building peptide-like and small molecule fragments.
 * [SwissSidechain](https://www.swisssidechain.ch/) - Fragment and linker library for small molecule design.
 * [BoBER](http://bober.insilab.org/) - Bioisosteric replacements for lead optimization.
@@ -207,13 +207,13 @@ Computational methods for identifying and developing new drug candidates.
 ## Virtual Screening and Docking
 
 * [DiffDock](https://github.com/gcorso/DiffDock) ⭐ 1,599 | 🐛 134 | 🌐 Python | 📅 2025-05-02 - Deep learning-based docking tool that predicts ligand poses directly from protein structures using diffusion models.
-* [Gnina](https://github.com/gnina/gnina) ⭐ 1,017 | 🐛 26 | 🌐 C++ | 📅 2026-10-30 - CNN-scoring docking.
+* [Gnina](https://github.com/gnina/gnina) ⭐ 1,019 | 🐛 26 | 🌐 C++ | 📅 2026-10-30 - CNN-scoring docking.
 * [AutoDock-GPU](https://github.com/ccsb-scripps/AutoDock-GPU) ⭐ 613 | 🐛 89 | 🌐 C++ | 📅 2026-08-11 - GPU-accelerated version of AutoDock for faster ligand-receptor docking.
-* [Meeko](https://github.com/forlilab/Meeko) ⭐ 390 | 🐛 53 | 🌐 Python | 📅 2026-11-05 - Prepares ligands/receptors for AutoDock by assigning partial charges and atom types.
+* [Meeko](https://github.com/forlilab/Meeko) ⭐ 390 | 🐛 52 | 🌐 Python | 📅 2026-11-05 - Prepares ligands/receptors for AutoDock by assigning partial charges and atom types.
 * [Smina](https://github.com/mwojcikowski/smina) ⭐ 151 | 🐛 1 | 🌐 C++ | 📅 2018-11-18 - Vina fork with extra features.
 * [PandaDock](https://github.com/pritampanda15/PandaDock) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Python docking tool.
-* [EasyDock](https://github.com/ci-lab-cz/easydock) ⭐ 88 | 🐛 13 | 🌐 Python | 📅 2026-10-29 - Vina/Smina pipeline.
-* [MolScrub](https://github.com/forlilab/molscrub) ⭐ 64 | 🐛 7 | 🌐 Python | 📅 2026-11-04 - Enumerates tautomers, pH states, and conformers for docking and structure-based modeling.
+* [EasyDock](https://github.com/ci-lab-cz/easydock) ⭐ 84 | 🐛 13 | 🌐 Python | 📅 2026-10-29 - Vina/Smina pipeline.
+* [MolScrub](https://github.com/forlilab/molscrub) ⭐ 62 | 🐛 7 | 🌐 Python | 📅 2026-11-04 - Enumerates tautomers, pH states, and conformers for docking and structure-based modeling.
 * [MzDOCK](https://github.com/Muzatheking12/MzDOCK) ⭐ 30 | 🐛 11 | 🌐 Python | 📅 2026-08-25 - GUI docking pipeline.
 * [Chopdock](https://github.com/JanoschMenke/chopdock) ⭐ 19 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-01 - Molecular docking and cheminformatics tool for structural interaction analysis and fragment-based design.
 * [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) ⭐ 0 | 🐛 0 | 📅 2020-03-28 - Vina automation.
@@ -235,7 +235,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ## Interaction Analysis and Visualization
 
-* [xyzrender](https://github.com/aligfellow/xyzrender) ⭐ 623 | 🐛 17 | 🌐 Python | 📅 2026-11-05 - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
+* [xyzrender](https://github.com/aligfellow/xyzrender) ⭐ 622 | 🐛 17 | 🌐 Python | 📅 2026-11-05 - CLI for producing publication-quality molecular graphics, GIFs, and SVGs from coordinate files.
 * [pymol-sifts](https://github.com/connyyu/pymol_sifts/) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-05-18 - PyMOL plugin for integrating and visually mapping SIFTS structural and sequence data.
 * [posecheck-fast](https://github.com/LigandPro/posecheck-fast) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-02-19 - High-throughput docking pose validation with symmetry-corrected RMSD and lightweight distance and clash filters.
 * [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - Protein-ligand interaction profiling.
@@ -282,7 +282,7 @@ Computational methods for identifying and developing new drug candidates.
 ## Synthesis and Retrosynthesis Planning
 
 * [Spaya](https://spaya.ai/app/search) - AI-driven retrosynthesis engine with route ranking and synthetic feasibility scoring.
-* [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) ⭐ 912 | 🐛 11 | 🌐 Python | 📅 2026-04-13 - Monte Carlo tree search-based retrosynthesis using trained neural networks.
+* [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) ⭐ 913 | 🐛 11 | 🌐 Python | 📅 2026-04-13 - Monte Carlo tree search-based retrosynthesis using trained neural networks.
 * [ASKCOS](https://askcos.mit.edu/) - Synthesis route prediction with ML, developed by MIT.
 * [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction using transformer models.
 * [MANIFOLD](https://postera.ai/) - Search engine for synthetically accessible molecules and building blocks.
@@ -305,20 +305,20 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Chemistry-focused ML Frameworks
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,125 | 🐛 1,273 | 🌐 Python | 📅 2026-08-20 - Open-source deep learning framework for chemistry and biology.
-* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,518 | 🐛 26 | 🌐 Python | 📅 2026-11-02 - Directed message passing neural networks for molecular property prediction.
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,125 | 🐛 1,275 | 🌐 Python | 📅 2026-08-20 - Open-source deep learning framework for chemistry and biology.
+* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,519 | 🐛 26 | 🌐 Python | 📅 2026-11-02 - Directed message passing neural networks for molecular property prediction.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 812 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - Graph deep learning toolkit for life sciences using the Deep Graph Library.
 * [scikit-mol](https://github.com/EBjerrum/scikit-mol) ⭐ 204 | 🐛 7 | 🌐 Python | 📅 2025-11-02 - Open-source toolkit bridging RDKit and scikit-learn for molecular ML workflows.
 * [ChemML](https://github.com/hachmannlab/chemml) ⭐ 180 | 🐛 2 | 🌐 Python | 📅 2026-11-04 - Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
 * [iChem](https://github.com/mqcomplab/iChem) ⭐ 23 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-09-23 - Python cheminformatics package for molecular comparisons, fingerprints, and chemical data analysis.
-* [LigandForge](https://github.com/HTS-Oracle/LigandForge) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-05-08 - ML-based structure-guided de novo ligand generation and optimization for hit identification.
+* [LigandForge](https://github.com/HTS-Oracle/LigandForge) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2026-05-08 - ML-based structure-guided de novo ligand generation and optimization for hit identification.
 * [Oloren ChemEngine](https://pypi.org/project/olorenchemengine/) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
 * [TorchDrug](https://torchdrug.ai/) - A machine learning library for drug discovery with support for GNNs and molecular datasets.
 
 ### Pretrained Models
 
 * [Boltz-2](https://github.com/jwohlwend/boltz) ⭐ 4,294 | 🐛 139 | 🌐 Python | 📅 2026-05-29 - A foundation model that jointly predicts structure and binding affinity, rivaling physics-based FEP methods in accuracy.
-* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 3,016 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
+* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 3,017 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Generative biology foundation model for designing novel proteins across sequence, structure, and function.
 * [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 2,009 | 🐛 100 | 🌐 Python | 📅 2026-10-27 - Multi-modal foundation model for biomolecular structure prediction of proteins, nucleic acids, and ligands.
 * [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) ⭐ 1,177 | 🐛 113 | 🌐 Python | 📅 2025-05-29 - 3D molecular representation learning framework.
 * [MolBERT](https://github.com/BenevolentAI/MolBERT) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2021-06-06 - Transformer-based molecular representation learning.
@@ -328,18 +328,18 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Molecule Standardization
 
-* [MolVS](https://github.com/mcs07/MolVS) ⭐ 189 | 🐛 23 | 🌐 Python | 📅 2020-04-16 - Molecule validation and standardization library based on RDKit.
+* [MolVS](https://github.com/mcs07/MolVS) ⭐ 188 | 🐛 23 | 🌐 Python | 📅 2020-04-16 - Molecule validation and standardization library based on RDKit.
 * [cleanmol](https://github.com/nurtilekgalimov/cleanmol) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-04-15 - Python library for cleaning, standardizing, and preparing molecular structures for cheminformatics workflows.
 
 ## Utility and Workflow Tools
 
 * [chembl\_webresource\_client](https://github.com/chembl/chembl_webresource_client) ⭐ 453 | 🐛 29 | 🌐 Python | 📅 2026-03-24 - Official Python client library for programmatic access to the ChEMBL database API.
-* [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) ⭐ 401 | 🐛 1 | 🌐 Python | 📅 2026-10-18 - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
+* [PyChem-Pro](https://github.com/vijaymasand/PyChem-Pro) ⭐ 400 | 🐛 1 | 🌐 Python | 📅 2026-10-18 - Pure-Python desktop application for molecular visualization, geometry optimization, and cheminformatics.
 * [spyrmsd](https://github.com/RMeli/spyrmsd) ⭐ 126 | 🐛 6 | 🌐 Python | 📅 2026-10-05 - Python tool for symmetry-corrected RMSD calculations using graph isomorphism.
 * [biopipelines](https://github.com/locbp-uzh/biopipelines) ⭐ 109 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-30 - Modular Python framework for automated computational protein and ligand engineering workflows on SLURM clusters.
 * [NAMI](https://github.com/mqcomplab/NAMI) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2026-09-18 - Computational tool for clustering and evaluating differences across molecular datasets.
-* [ComProScanner](https://github.com/slimeslab/ComProScanner) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-08-11 - Pipeline for automated large-scale profiling and screening of chemical compounds against protein targets.
-* [HEDGEHOG](https://github.com/LigandPro/hedgehog) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2026-10-30 - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, and reports.
+* [ComProScanner](https://github.com/slimeslab/ComProScanner) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-08-11 - Pipeline for automated large-scale profiling and screening of chemical compounds against protein targets.
+* [HEDGEHOG](https://github.com/LigandPro/hedgehog) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-10-30 - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, and reports.
 * [rdkit-agent](https://github.com/scottmreed/rdkit-agent) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-19 - Agent-first cheminformatics CLI powered by RDKit WASM for structure validation and format conversion.
 * [AssayCurveFit (GitHub)](https://github.com/yapici/assaycurvefit) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Source repository for IC50/EC50 calculation from biochemical assays.
 * [ProteinsPlus](https://proteins.plus/) - A web-based platform designed to assist life scientists in analyzing and working with protein structures.
@@ -368,7 +368,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Free Courses
 
-* [AI for Chemistry Course](https://github.com/schwallergroup/ai4chem_course) ⭐ 297 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-03 - Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.
+* [AI for Chemistry Course](https://github.com/schwallergroup/ai4chem_course) ⭐ 296 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-03 - Lecture slides, Jupyter notebooks, and exercises for machine learning in chemistry.
 * [TMP Chem Lectures](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) - Recorded lectures from a leading cheminformatics summer school.
 * [Strasbourg Summer School in Chemoinformatics](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - Summer school lectures.
 * [BIGCHEM](https://bigchem.eu/node/63) - Online course on big data applications in chemistry.
@@ -410,7 +410,7 @@ Computational methods for identifying and developing new drug candidates.
 
 ### Instructional Notebooks
 
-* [DeepChem Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 7,125 | 🐛 1,273 | 🌐 Python | 📅 2026-08-20 - Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.
+* [DeepChem Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 7,125 | 🐛 1,275 | 🌐 Python | 📅 2026-08-20 - Comprehensive set of tutorials covering deep learning for chemistry, biology, and materials science.
 * [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) ⭐ 1,340 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-22 - Hands-on Jupyter tutorials for RDKit, SAR, clustering, generative models, and ML pipelines.
 * [intro\_pharma\_ai](https://github.com/kochgroup/intro_pharma_ai) ⭐ 171 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-26 - Notebook-based introduction to AI applications in pharma.
 * [how-to-train-your-chemeleon](https://github.com/JacksonBurns/how-to-train-your-chemeleon) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2026-10-12 - Tutorial and framework for training chemical machine learning models.
@@ -441,4 +441,4 @@ Computational methods for identifying and developing new drug candidates.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

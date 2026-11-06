@@ -49,7 +49,7 @@
                 "open_issues": 247,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3122,
+                "stars": 3127,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 65,
                 "owner": "openmm",
                 "repo": "pdbfixer",
-                "stars": 683,
+                "stars": 684,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -257,7 +257,7 @@
                 "open_issues": 0,
                 "owner": "1JELC1",
                 "repo": "FragmentFinder",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -340,7 +340,7 @@
             "open_issues": 26,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 1017,
+            "stars": 1019,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -391,8 +391,8 @@
             "id": 310835794,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-05T01:48:38Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-05T19:53:46Z",
+            "open_issues": 52,
             "owner": "forlilab",
             "repo": "Meeko",
             "stars": 390,
@@ -480,7 +480,7 @@
             "open_issues": 13,
             "owner": "ci-lab-cz",
             "repo": "easydock",
-            "stars": 88,
+            "stars": 84,
             "topics": [
               "molecular-docking"
             ]
@@ -503,7 +503,7 @@
             "open_issues": 7,
             "owner": "forlilab",
             "repo": "molscrub",
-            "stars": 64,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -593,7 +593,7 @@
             "open_issues": 17,
             "owner": "aligfellow",
             "repo": "xyzrender",
-            "stars": 623,
+            "stars": 622,
             "topics": [
               "compchem",
               "computational-chemistry",
@@ -732,7 +732,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1273,
+                "open_issues": 1275,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7125,
@@ -763,7 +763,7 @@
                 "open_issues": 26,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2518,
+                "stars": 2519,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -889,7 +889,7 @@
                 "open_issues": 1,
                 "owner": "HTS-Oracle",
                 "repo": "LigandForge",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -942,7 +942,7 @@
                 "open_issues": 80,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 3016,
+                "stars": 3017,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1066,7 +1066,7 @@
                 "open_issues": 23,
                 "owner": "mcs07",
                 "repo": "MolVS",
-                "stars": 189,
+                "stars": 188,
                 "topics": [
                   "cheminformatics",
                   "chemistry",
@@ -1164,7 +1164,7 @@
             "open_issues": 1,
             "owner": "vijaymasand",
             "repo": "PyChem-Pro",
-            "stars": 401,
+            "stars": 400,
             "topics": [
               "bioinformatics",
               "chemical-editor",
@@ -1270,7 +1270,7 @@
             "open_issues": 0,
             "owner": "slimeslab",
             "repo": "ComProScanner",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "automation",
               "crewai",
@@ -1308,7 +1308,7 @@
             "open_issues": 4,
             "owner": "LigandPro",
             "repo": "hedgehog",
-            "stars": 14,
+            "stars": 13,
             "topics": [
               "boltz2",
               "cheminformatics",
@@ -1395,7 +1395,7 @@
                 "open_issues": 3,
                 "owner": "schwallergroup",
                 "repo": "ai4chem_course",
-                "stars": 297,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1448,7 +1448,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1273,
+                "open_issues": 1275,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7125,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:49:54.351Z",
+    "last_updated": "2026-11-06T16:16:51.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
