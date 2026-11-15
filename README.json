@@ -364,7 +364,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-08-11T19:00:24Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "forlilab",
             "repo": "AutoDock-GPU",
             "stars": 613,
@@ -422,7 +422,7 @@
             "open_issues": 1,
             "owner": "mwojcikowski",
             "repo": "smina",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -732,7 +732,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1294,
+                "open_issues": 1295,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7146,
@@ -914,10 +914,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-29T08:20:25Z",
-                "open_issues": 143,
+                "open_issues": 141,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4322,
+                "stars": 4323,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -942,7 +942,7 @@
                 "open_issues": 81,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 3023,
+                "stars": 3024,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -1304,7 +1304,7 @@
             "id": 1017318033,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T08:48:44Z",
+            "last_commit": "2026-11-14T21:35:51Z",
             "open_issues": 4,
             "owner": "LigandPro",
             "repo": "hedgehog",
@@ -1448,7 +1448,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1294,
+                "open_issues": 1295,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7146,
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:20:07.637Z",
+    "last_updated": "2026-11-15T15:52:19.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
@@ -1572,7 +1572,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-12T15:20:34Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "yboulaamane",
       "repo": "awesome-drug-discovery",
       "stars": 160,
