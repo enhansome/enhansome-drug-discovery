@@ -49,7 +49,7 @@
                 "open_issues": 247,
                 "owner": "RosettaCommons",
                 "repo": "RFdiffusion",
-                "stars": 3138,
+                "stars": 3141,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -204,7 +204,7 @@
                 "id": 291745112,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T17:02:58Z",
+                "last_commit": "2026-11-16T15:19:05Z",
                 "open_issues": 10,
                 "owner": "digital-chemistry-laboratory",
                 "repo": "morfeus",
@@ -310,7 +310,7 @@
             "open_issues": 134,
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1609,
+            "stars": 1610,
             "topics": [
               "binding",
               "computational-biology",
@@ -337,7 +337,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T18:59:05Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "gnina",
             "repo": "gnina",
             "stars": 1025,
@@ -735,7 +735,7 @@
                 "open_issues": 1295,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7146,
+                "stars": 7149,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -760,7 +760,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-12T20:01:46Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "chemprop",
                 "repo": "chemprop",
                 "stars": 2532,
@@ -917,7 +917,7 @@
                 "open_issues": 141,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4323,
+                "stars": 4324,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -942,7 +942,7 @@
                 "open_issues": 81,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 3024,
+                "stars": 3025,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -960,10 +960,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T01:22:40Z",
-                "open_issues": 100,
+                "open_issues": 102,
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
-                "stars": 2010,
+                "stars": 2013,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -984,7 +984,7 @@
                 "open_issues": 113,
                 "owner": "deepmodeling",
                 "repo": "Uni-Mol",
-                "stars": 1179,
+                "stars": 1180,
                 "topics": [
                   "deep-learning",
                   "molecular-modeling",
@@ -1031,7 +1031,7 @@
                 "open_issues": 1,
                 "owner": "Zatom-AI",
                 "repo": "zatom",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "3d-materials",
                   "3d-molecules",
@@ -1224,7 +1224,7 @@
             "id": 1155324848,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-30T13:10:15Z",
+            "last_commit": "2026-11-16T13:15:07Z",
             "open_issues": 0,
             "owner": "locbp-uzh",
             "repo": "biopipelines",
@@ -1304,8 +1304,8 @@
             "id": 1017318033,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T21:35:51Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-16T13:01:15Z",
+            "open_issues": 2,
             "owner": "LigandPro",
             "repo": "hedgehog",
             "stars": 14,
@@ -1451,7 +1451,7 @@
                 "open_issues": 1295,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7146,
+                "stars": 7149,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:52:19.853Z",
+    "last_updated": "2026-11-16T18:54:28.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
