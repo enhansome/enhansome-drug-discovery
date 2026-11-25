@@ -70,7 +70,7 @@
                 "open_issues": 66,
                 "owner": "openmm",
                 "repo": "pdbfixer",
-                "stars": 690,
+                "stars": 691,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -310,7 +310,7 @@
             "open_issues": 134,
             "owner": "gcorso",
             "repo": "DiffDock",
-            "stars": 1613,
+            "stars": 1615,
             "topics": [
               "binding",
               "computational-biology",
@@ -340,7 +340,7 @@
             "open_issues": 27,
             "owner": "gnina",
             "repo": "gnina",
-            "stars": 1035,
+            "stars": 1036,
             "topics": [
               "cheminformatics",
               "computational-chemistry",
@@ -391,8 +391,8 @@
             "id": 310835794,
             "language": "Python",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-24T00:28:08Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-24T21:59:34Z",
+            "open_issues": 56,
             "owner": "forlilab",
             "repo": "Meeko",
             "stars": 396,
@@ -439,27 +439,19 @@
             "id": 955488326,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-24T05:10:01Z",
+            "last_commit": "2026-11-25T06:05:56Z",
             "open_issues": 0,
             "owner": "pritampanda15",
             "repo": "PandaDock",
             "stars": 107,
             "topics": [
-              "algorithm",
-              "cpu",
+              "covalent-docking",
               "cuda",
               "docking",
-              "docking-application",
-              "flexible",
               "gnn",
-              "graph",
-              "learning",
-              "machine",
               "machine-learning",
               "neural-network",
-              "pearson-correlation",
-              "physics",
-              "spearman-rank-correlation"
+              "physics"
             ]
           },
           "first_seen": "2026-08-28T20:21:51.648Z"
@@ -732,10 +724,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1296,
+                "open_issues": 1297,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7158,
+                "stars": 7160,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -914,10 +906,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-29T08:20:25Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "jwohlwend",
                 "repo": "boltz",
-                "stars": 4340,
+                "stars": 4343,
                 "topics": [
                   "binding-prediction",
                   "drug-discovery",
@@ -942,7 +934,7 @@
                 "open_issues": 82,
                 "owner": "Biohub",
                 "repo": "esm",
-                "stars": 3031,
+                "stars": 3032,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:51.648Z"
@@ -960,7 +952,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T22:56:20Z",
-                "open_issues": 100,
+                "open_issues": 101,
                 "owner": "chaidiscovery",
                 "repo": "chai-lab",
                 "stars": 2018,
@@ -1448,10 +1440,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1296,
+                "open_issues": 1297,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7158,
+                "stars": 7160,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -1563,7 +1555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:41:48.655Z",
+    "last_updated": "2026-11-25T18:49:48.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A meticulously curated resource list focused on computational methods for drug discovery.",
